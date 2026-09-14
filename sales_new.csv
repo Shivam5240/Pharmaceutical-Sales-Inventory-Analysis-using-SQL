@@ -1,0 +1,1001 @@
+sale_id,drug_id,sale_date,region,customer_type,units_sold,discount_percent
+1,904,2025/05/13,Central,Government Hospital,2116,10.4
+2,228,2026/01/02,East,Retail Pharmacy,1106,17.2
+3,191,2025/03/29,North,Distributor,2789,3.0
+4,788,2025/12/23,Central,Hospital,642,5.6
+5,574,2026/10/19,North,Hospital,2828,21.3
+6,133,2025/10/10,South,Retail Pharmacy,3008,7.1
+7,923,2025/02/03,Central,Distributor,578,19.4
+8,617,2026/09/16,South,Retail Pharmacy,3903,23.3
+9,839,2026/11/28,North,Government Hospital,3266,7.2
+10,330,2026/07/26,West,Government Hospital,102,15.9
+11,878,2025/04/27,North,Distributor,615,15.5
+12,765,2026/10/05,Northeast,Clinic,3096,21.5
+13,641,2026/03/18,Northeast,Distributor,4301,5.3
+14,259,2026/02/13,Central,Government Hospital,3628,18.7
+15,980,2025/06/06,East,Clinic,3321,0.1
+16,207,2026/10/27,East,Retail Pharmacy,4964,28.0
+17,47,2026/10/29,North,Hospital,4003,20.9
+18,592,2026/04/21,North,Distributor,1549,6.2
+19,692,2025/11/04,West,Hospital,305,11.9
+20,154,2026/04/19,West,Government Hospital,2484,9.7
+21,293,2026/05/26,Northeast,Hospital,254,3.3
+22,146,2026/06/18,West,Government Hospital,3048,23.3
+23,778,2026/01/19,North,Retail Pharmacy,1219,21.6
+24,777,2025/02/26,North,Distributor,2553,9.8
+25,310,2026/11/02,East,Retail Pharmacy,4854,16.0
+26,307,2025/04/05,Northeast,Retail Pharmacy,3348,21.1
+27,97,2025/04/15,Northeast,Distributor,2493,2.2
+28,799,2025/09/09,Central,Hospital,4965,19.2
+29,656,2026/11/20,West,Clinic,1031,8.8
+30,851,2026/04/02,North,Retail Pharmacy,1251,20.8
+31,816,2026/07/25,West,Clinic,3746,20.0
+32,497,2025/04/25,East,Retail Pharmacy,2800,14.6
+33,17,2026/05/27,West,Retail Pharmacy,3006,11.8
+34,794,2025/10/30,West,Government Hospital,1346,8.7
+35,291,2025/09/10,East,Distributor,4408,3.0
+36,507,2026/03/01,North,Retail Pharmacy,2378,26.8
+37,468,2025/03/28,South,Distributor,4707,30.0
+38,804,2026/07/28,Central,Retail Pharmacy,934,27.1
+39,33,2025/07/16,West,Clinic,1596,9.7
+40,42,2026/10/31,West,Hospital,2059,27.5
+41,212,2025/11/30,East,Distributor,2914,10.1
+42,655,2025/08/25,West,Government Hospital,3269,6.6
+43,629,2025/04/08,South,Distributor,3474,8.1
+44,88,2025/11/05,East,Distributor,1566,4.1
+45,456,2025/09/25,West,Distributor,485,6.8
+46,50,2026/06/23,East,Hospital,1709,19.6
+47,77,2025/02/11,East,Clinic,2343,15.2
+48,493,2025/01/19,East,Distributor,1609,29.6
+49,415,2026/07/15,East,Distributor,1726,0.3
+50,500,2025/08/11,Northeast,Retail Pharmacy,368,22.8
+51,764,2026/12/25,East,Retail Pharmacy,2063,4.2
+52,427,2025/03/19,East,Hospital,3505,18.9
+53,839,2026/05/13,Northeast,Government Hospital,1461,17.1
+54,818,2026/05/21,Northeast,Clinic,3572,23.3
+55,187,2025/04/10,East,Hospital,3098,23.9
+56,665,2026/01/13,Northeast,Clinic,341,5.2
+57,153,2026/03/22,South,Retail Pharmacy,1509,0.6
+58,702,2025/05/03,East,Clinic,3301,21.7
+59,500,2025/10/04,Northeast,Clinic,3020,2.5
+60,89,2025/11/10,North,Clinic,402,5.5
+61,772,2026/07/07,North,Hospital,3184,0.3
+62,587,2025/09/22,Central,Clinic,751,2.1
+63,465,2025/05/21,Northeast,Hospital,3221,22.3
+64,274,2025/09/26,North,Distributor,1260,25.6
+65,20,2025/01/18,South,Distributor,1326,29.9
+66,793,2026/11/16,North,Clinic,4151,14.4
+67,809,2026/01/23,Northeast,Distributor,95,7.5
+68,830,2026/02/05,West,Clinic,496,17.6
+69,224,2026/09/27,Northeast,Government Hospital,3275,14.9
+70,408,2026/07/01,South,Clinic,3653,4.8
+71,882,2025/04/24,East,Clinic,3307,6.7
+72,580,2025/01/30,North,Retail Pharmacy,1701,1.1
+73,946,2025/08/25,Central,Distributor,3198,18.6
+74,540,2025/08/03,East,Hospital,1034,12.8
+75,281,2026/02/14,Central,Hospital,3802,0.6
+76,876,2025/02/03,East,Hospital,1829,12.5
+77,282,2026/05/29,West,Clinic,364,28.0
+78,202,2025/08/24,South,Hospital,2730,10.0
+79,500,2026/02/16,West,Hospital,2241,12.8
+80,20,2026/10/21,Central,Hospital,2900,6.7
+81,787,2025/07/28,Northeast,Retail Pharmacy,17,12.0
+82,730,2025/09/07,Central,Distributor,4938,26.3
+83,641,2025/03/31,Northeast,Distributor,3842,26.6
+84,755,2025/02/01,Northeast,Clinic,1170,29.7
+85,725,2025/07/28,South,Clinic,1137,9.1
+86,654,2025/04/30,East,Clinic,1355,17.0
+87,981,2026/10/15,East,Clinic,4281,23.4
+88,437,2025/07/25,South,Government Hospital,3996,25.4
+89,649,2025/06/05,Central,Distributor,413,21.1
+90,336,2025/10/26,Central,Hospital,333,14.9
+91,879,2026/10/15,East,Clinic,23,25.3
+92,911,2026/10/16,East,Distributor,3474,15.9
+93,650,2026/01/13,North,Government Hospital,1611,26.9
+94,550,2025/12/01,South,Hospital,3821,20.2
+95,915,2026/04/12,West,Distributor,4404,28.8
+96,988,2026/08/22,East,Distributor,1965,12.5
+97,618,2026/09/15,North,Hospital,2804,17.3
+98,523,2026/02/26,Central,Government Hospital,745,23.9
+99,653,2026/07/11,South,Retail Pharmacy,2871,8.9
+100,516,2025/11/09,West,Clinic,4167,8.8
+101,645,2026/04/02,East,Distributor,4024,15.9
+102,25,2026/01/13,South,Distributor,371,20.1
+103,976,2026/07/12,Central,Retail Pharmacy,3907,26.4
+104,572,2026/09/17,North,Clinic,4287,28.3
+105,503,2026/10/24,Northeast,Hospital,4736,18.0
+106,768,2026/03/31,Central,Government Hospital,4427,1.2
+107,170,2025/05/30,Central,Clinic,1969,9.3
+108,239,2025/03/21,West,Government Hospital,3026,23.0
+109,396,2025/10/04,North,Clinic,2767,5.1
+110,522,2025/04/24,Northeast,Clinic,1727,21.7
+111,652,2025/08/26,North,Hospital,929,9.3
+112,184,2026/01/20,North,Distributor,448,8.7
+113,526,2026/05/02,Central,Hospital,2702,11.5
+114,704,2025/04/21,Central,Retail Pharmacy,3053,17.1
+115,738,2026/04/10,West,Distributor,2986,19.6
+116,513,2026/04/07,East,Distributor,2782,11.8
+117,560,2026/10/07,South,Hospital,1574,21.2
+118,3,2026/04/08,Northeast,Retail Pharmacy,2333,19.7
+119,254,2025/02/26,East,Hospital,1932,20.2
+120,138,2025/10/04,West,Clinic,689,23.9
+121,292,2025/11/09,Northeast,Hospital,4837,5.6
+122,417,2025/01/05,West,Clinic,3437,23.5
+123,319,2026/03/31,Central,Hospital,2212,20.0
+124,700,2025/08/27,West,Clinic,4864,23.1
+125,911,2026/07/05,North,Retail Pharmacy,949,17.4
+126,655,2026/07/16,East,Distributor,4117,7.8
+127,488,2025/12/26,North,Retail Pharmacy,553,20.8
+128,633,2026/06/24,East,Government Hospital,922,19.2
+129,918,2025/02/03,West,Hospital,3476,20.5
+130,243,2026/04/14,West,Clinic,1586,11.5
+131,137,2026/12/05,West,Clinic,4689,11.3
+132,100,2026/05/05,North,Hospital,772,1.3
+133,652,2026/08/03,Central,Hospital,2191,6.9
+134,837,2025/09/21,West,Clinic,328,22.3
+135,830,2026/07/14,South,Retail Pharmacy,584,23.0
+136,945,2026/12/02,South,Government Hospital,619,26.4
+137,313,2025/07/18,North,Hospital,4191,29.8
+138,529,2026/11/13,East,Distributor,4826,11.9
+139,579,2025/09/02,West,Government Hospital,2701,12.5
+140,447,2025/10/22,West,Clinic,3569,18.7
+141,643,2026/08/26,South,Clinic,2779,12.1
+142,60,2026/01/19,North,Government Hospital,1640,7.4
+143,178,2026/07/15,Central,Distributor,1783,12.3
+144,849,2025/02/15,Central,Distributor,1434,2.1
+145,824,2026/04/08,West,Distributor,4948,26.5
+146,662,2026/08/22,South,Retail Pharmacy,146,2.0
+147,255,2025/03/05,Northeast,Hospital,1432,11.0
+148,44,2026/06/14,Central,Retail Pharmacy,4726,6.2
+149,614,2025/06/12,North,Retail Pharmacy,4687,13.9
+150,794,2026/10/18,South,Distributor,1721,13.6
+151,524,2025/02/24,East,Government Hospital,1655,3.0
+152,945,2025/06/14,Northeast,Government Hospital,1830,6.2
+153,261,2026/09/08,West,Government Hospital,3570,23.8
+154,576,2025/11/02,North,Government Hospital,823,21.4
+155,146,2026/06/30,Central,Clinic,2591,14.2
+156,859,2026/11/20,North,Retail Pharmacy,3946,26.3
+157,489,2025/07/17,West,Retail Pharmacy,1948,0.6
+158,706,2025/10/03,Central,Distributor,2320,10.1
+159,229,2026/04/21,West,Clinic,740,3.8
+160,396,2025/10/02,Central,Retail Pharmacy,4634,5.0
+161,981,2025/05/19,North,Retail Pharmacy,1700,0.6
+162,732,2025/05/20,East,Retail Pharmacy,304,27.4
+163,264,2026/08/16,Central,Hospital,209,15.2
+164,355,2025/08/05,East,Hospital,4195,17.1
+165,368,2026/11/09,East,Retail Pharmacy,522,18.4
+166,105,2025/12/12,Northeast,Distributor,3049,19.0
+167,411,2026/10/14,West,Hospital,1836,6.3
+168,387,2025/07/13,North,Retail Pharmacy,2496,29.4
+169,914,2026/05/17,Central,Government Hospital,656,17.6
+170,69,2026/08/29,East,Government Hospital,3650,21.4
+171,514,2025/01/12,North,Hospital,3619,5.1
+172,298,2026/02/15,Northeast,Hospital,1737,11.6
+173,788,2025/03/16,East,Retail Pharmacy,4232,26.4
+174,426,2026/01/07,East,Clinic,1975,8.0
+175,595,2026/12/27,West,Retail Pharmacy,339,6.2
+176,865,2026/04/09,North,Clinic,4606,1.6
+177,376,2026/01/23,Northeast,Distributor,3643,8.7
+178,1000,2025/01/24,North,Distributor,44,25.7
+179,115,2026/01/17,South,Clinic,3370,15.0
+180,518,2026/05/06,Central,Distributor,2964,13.6
+181,608,2026/07/15,South,Distributor,1055,18.3
+182,415,2025/07/05,East,Government Hospital,4789,26.7
+183,535,2026/11/27,Central,Clinic,2135,29.4
+184,553,2026/11/18,East,Distributor,3153,5.2
+185,308,2025/06/25,Northeast,Government Hospital,4494,21.2
+186,888,2025/01/16,Central,Clinic,2787,26.8
+187,714,2025/02/24,West,Distributor,3795,1.5
+188,151,2026/12/06,North,Retail Pharmacy,3218,15.5
+189,353,2025/09/07,South,Retail Pharmacy,4509,28.7
+190,76,2025/01/30,West,Retail Pharmacy,808,23.8
+191,172,2026/05/04,North,Government Hospital,2767,7.7
+192,388,2025/11/21,North,Retail Pharmacy,3804,22.3
+193,589,2026/10/29,Central,Government Hospital,546,26.3
+194,70,2026/12/15,East,Retail Pharmacy,4428,19.5
+195,898,2026/09/19,East,Distributor,3760,7.0
+196,748,2026/03/01,East,Clinic,1708,4.9
+197,845,2026/12/30,West,Government Hospital,3688,3.3
+198,456,2025/02/16,West,Government Hospital,581,28.1
+199,117,2026/02/23,East,Hospital,1871,24.3
+200,52,2025/06/10,Northeast,Hospital,1219,16.3
+201,186,2026/04/11,South,Clinic,1305,28.3
+202,894,2026/12/27,Central,Clinic,594,27.5
+203,146,2026/11/08,Central,Government Hospital,2871,10.8
+204,844,2026/01/08,Northeast,Distributor,2712,16.5
+205,993,2025/07/09,Central,Government Hospital,3458,24.9
+206,306,2025/07/20,Northeast,Retail Pharmacy,3029,5.8
+207,663,2025/02/28,East,Government Hospital,918,9.2
+208,283,2026/03/07,Central,Clinic,2442,13.8
+209,79,2026/09/12,North,Clinic,572,7.3
+210,264,2026/06/15,West,Clinic,1021,16.0
+211,466,2025/07/13,Central,Retail Pharmacy,667,7.6
+212,975,2025/08/07,West,Hospital,1623,4.6
+213,494,2026/09/11,South,Government Hospital,2254,17.4
+214,393,2026/01/14,Northeast,Clinic,3917,2.6
+215,120,2025/11/03,Central,Hospital,2917,3.2
+216,533,2025/01/24,North,Government Hospital,4550,3.9
+217,647,2026/07/16,North,Government Hospital,1892,22.2
+218,324,2026/02/23,South,Clinic,3885,11.5
+219,65,2025/10/05,East,Clinic,4949,24.4
+220,876,2026/09/25,West,Clinic,2461,0.0
+221,609,2025/08/02,West,Hospital,782,25.6
+222,350,2025/06/02,East,Government Hospital,3348,27.9
+223,70,2026/09/14,South,Government Hospital,1125,22.6
+224,875,2025/08/17,Northeast,Hospital,3161,26.8
+225,688,2025/03/20,South,Government Hospital,1295,26.2
+226,444,2025/03/12,Central,Government Hospital,4344,9.6
+227,607,2026/04/19,Northeast,Government Hospital,1761,28.9
+228,800,2025/06/17,East,Government Hospital,3774,22.5
+229,834,2025/04/26,East,Government Hospital,2519,17.6
+230,682,2025/06/04,Central,Retail Pharmacy,4431,19.3
+231,385,2025/10/12,Northeast,Clinic,3302,13.6
+232,466,2025/10/26,East,Retail Pharmacy,2423,8.5
+233,273,2025/10/09,Northeast,Hospital,2126,11.3
+234,256,2026/07/12,East,Hospital,2336,30.0
+235,429,2025/10/23,Northeast,Retail Pharmacy,1981,10.8
+236,67,2025/05/29,Central,Retail Pharmacy,3307,15.3
+237,757,2025/10/20,Northeast,Retail Pharmacy,1566,29.3
+238,918,2025/10/22,North,Government Hospital,4199,27.7
+239,928,2026/01/29,Northeast,Distributor,3150,12.3
+240,636,2025/09/05,East,Retail Pharmacy,157,28.9
+241,880,2026/05/12,Central,Clinic,4073,2.4
+242,950,2025/10/12,West,Hospital,2623,11.9
+243,622,2026/09/05,East,Retail Pharmacy,1225,18.8
+244,704,2026/04/15,North,Retail Pharmacy,942,24.6
+245,202,2026/12/06,East,Government Hospital,2894,20.4
+246,836,2026/11/10,North,Retail Pharmacy,3329,24.8
+247,334,2026/03/29,Central,Clinic,4160,21.3
+248,537,2025/08/20,West,Clinic,2939,23.9
+249,899,2026/06/11,North,Clinic,1728,6.2
+250,274,2025/08/16,South,Clinic,1657,2.3
+251,156,2026/08/22,Central,Clinic,2646,28.3
+252,416,2026/10/31,South,Clinic,1562,16.3
+253,911,2025/10/06,South,Retail Pharmacy,3774,6.6
+254,800,2026/09/24,East,Government Hospital,4483,12.3
+255,825,2025/06/03,East,Retail Pharmacy,174,16.3
+256,95,2026/05/19,Northeast,Hospital,2534,0.9
+257,328,2026/03/01,Central,Distributor,499,6.4
+258,377,2025/10/23,Northeast,Hospital,1785,12.7
+259,378,2026/07/03,South,Government Hospital,1060,17.5
+260,688,2025/07/27,Central,Retail Pharmacy,3552,15.0
+261,874,2026/12/10,East,Government Hospital,4226,23.6
+262,119,2025/05/21,North,Retail Pharmacy,2921,13.5
+263,492,2025/11/21,South,Distributor,291,16.6
+264,484,2026/02/14,North,Retail Pharmacy,3624,0.6
+265,416,2025/04/19,West,Government Hospital,3466,25.9
+266,58,2026/10/08,Central,Hospital,2485,12.9
+267,304,2025/04/17,Central,Distributor,3157,12.2
+268,123,2026/07/29,West,Retail Pharmacy,2927,20.3
+269,416,2025/08/19,South,Retail Pharmacy,730,29.5
+270,238,2026/09/22,Northeast,Clinic,1824,11.3
+271,835,2025/04/08,South,Clinic,580,15.3
+272,231,2026/04/21,Northeast,Government Hospital,2129,25.2
+273,259,2025/04/18,South,Government Hospital,2329,20.1
+274,713,2025/07/01,East,Retail Pharmacy,3729,17.4
+275,501,2026/04/27,West,Clinic,4781,1.3
+276,478,2025/12/19,South,Clinic,128,17.4
+277,84,2026/12/25,Central,Government Hospital,3473,15.4
+278,722,2025/01/23,South,Hospital,4874,3.7
+279,957,2026/12/11,East,Government Hospital,1722,2.2
+280,990,2025/09/04,Northeast,Retail Pharmacy,4703,0.5
+281,630,2026/09/01,East,Distributor,4617,8.3
+282,784,2026/04/11,East,Hospital,529,28.0
+283,480,2026/08/25,West,Hospital,1823,3.6
+284,702,2026/05/12,North,Distributor,1669,28.5
+285,87,2026/05/25,West,Government Hospital,1770,15.7
+286,540,2026/07/05,Central,Government Hospital,3419,24.8
+287,943,2025/02/04,Northeast,Government Hospital,2237,17.6
+288,38,2025/03/25,Northeast,Hospital,4792,21.0
+289,190,2026/11/16,Northeast,Retail Pharmacy,1138,0.9
+290,890,2026/05/17,South,Distributor,1977,8.9
+291,577,2026/01/11,Northeast,Distributor,2922,28.7
+292,425,2026/06/09,Central,Clinic,1848,11.8
+293,841,2025/03/19,North,Hospital,1444,27.1
+294,784,2025/09/24,East,Clinic,2614,13.6
+295,988,2025/03/30,East,Retail Pharmacy,1038,27.5
+296,761,2025/11/08,South,Distributor,1203,7.6
+297,119,2025/10/26,South,Retail Pharmacy,998,20.0
+298,131,2026/05/20,Central,Government Hospital,4706,8.7
+299,660,2026/04/03,South,Retail Pharmacy,3991,15.1
+300,951,2026/02/07,Central,Distributor,3423,20.0
+301,180,2025/09/01,North,Retail Pharmacy,4703,8.4
+302,531,2025/05/28,East,Retail Pharmacy,1461,16.3
+303,300,2025/11/15,Central,Government Hospital,2582,6.7
+304,965,2026/06/26,Central,Government Hospital,3041,27.1
+305,312,2025/12/27,East,Distributor,4162,23.6
+306,280,2026/09/18,South,Hospital,3765,29.6
+307,585,2025/06/04,West,Clinic,2414,20.4
+308,606,2026/04/10,North,Government Hospital,1741,11.4
+309,31,2026/07/26,Central,Retail Pharmacy,3741,5.6
+310,446,2026/06/11,Northeast,Distributor,4605,0.8
+311,941,2025/07/01,Northeast,Distributor,1204,29.2
+312,298,2026/01/06,South,Distributor,3814,23.8
+313,136,2025/04/20,Central,Distributor,3528,29.6
+314,78,2026/04/06,Central,Retail Pharmacy,1721,22.2
+315,120,2026/06/01,West,Hospital,2098,8.7
+316,24,2025/07/25,East,Distributor,4621,9.9
+317,739,2025/05/30,Central,Clinic,1779,12.6
+318,689,2026/04/08,North,Clinic,4932,7.4
+319,873,2025/05/31,Central,Distributor,818,22.3
+320,653,2026/06/25,West,Distributor,1265,20.7
+321,212,2026/01/23,East,Clinic,269,25.7
+322,395,2026/08/12,Central,Distributor,4273,13.1
+323,329,2026/11/03,East,Retail Pharmacy,4671,4.6
+324,498,2025/07/10,North,Government Hospital,2763,26.8
+325,261,2025/01/20,South,Government Hospital,695,21.7
+326,347,2025/05/01,North,Retail Pharmacy,3640,23.2
+327,59,2026/07/05,West,Clinic,4591,20.3
+328,132,2026/08/06,South,Government Hospital,3205,26.3
+329,516,2026/08/03,South,Hospital,1727,18.1
+330,995,2026/05/06,South,Government Hospital,3005,3.4
+331,653,2025/04/22,Northeast,Distributor,3003,12.0
+332,73,2025/08/30,Central,Distributor,3021,0.6
+333,861,2025/01/13,South,Hospital,959,21.5
+334,632,2025/08/25,Central,Distributor,1908,1.0
+335,847,2026/04/01,West,Retail Pharmacy,4070,17.0
+336,822,2025/04/11,North,Retail Pharmacy,2813,16.6
+337,992,2025/05/16,West,Retail Pharmacy,334,18.9
+338,679,2025/10/04,Northeast,Hospital,4386,2.4
+339,964,2026/10/06,East,Clinic,1630,26.4
+340,124,2026/01/20,West,Retail Pharmacy,1195,11.7
+341,235,2025/07/02,South,Retail Pharmacy,1086,0.0
+342,762,2026/08/19,Northeast,Hospital,1995,1.1
+343,752,2025/10/02,South,Hospital,2755,13.5
+344,459,2026/07/08,South,Hospital,2568,5.5
+345,100,2025/09/16,North,Government Hospital,2582,10.4
+346,325,2025/06/25,Central,Government Hospital,3777,4.6
+347,702,2025/05/27,East,Distributor,1330,4.8
+348,391,2026/05/03,West,Government Hospital,2794,10.4
+349,19,2026/08/21,Central,Retail Pharmacy,1008,4.1
+350,272,2025/02/03,Central,Government Hospital,3727,20.2
+351,19,2026/12/16,West,Retail Pharmacy,1998,24.5
+352,441,2026/10/07,Central,Retail Pharmacy,3318,29.5
+353,815,2026/04/22,West,Hospital,1121,2.8
+354,499,2025/05/11,East,Government Hospital,4775,27.2
+355,393,2025/05/15,Northeast,Retail Pharmacy,3486,14.3
+356,443,2025/06/12,Central,Retail Pharmacy,305,7.2
+357,95,2026/01/31,North,Distributor,2672,3.4
+358,498,2026/04/30,East,Distributor,1187,18.5
+359,764,2025/12/05,East,Clinic,855,8.8
+360,372,2026/04/14,East,Hospital,354,24.6
+361,656,2026/10/06,West,Retail Pharmacy,4132,16.3
+362,362,2026/04/21,West,Government Hospital,4945,14.1
+363,668,2026/09/21,East,Hospital,459,16.2
+364,680,2025/04/20,North,Hospital,2827,28.5
+365,339,2025/08/19,Northeast,Clinic,1446,6.5
+366,184,2025/03/23,North,Distributor,3195,5.5
+367,225,2026/09/07,North,Hospital,3286,15.5
+368,744,2025/04/22,Central,Retail Pharmacy,458,20.6
+369,375,2026/12/28,Northeast,Hospital,1885,10.7
+370,875,2025/06/12,South,Hospital,4459,5.2
+371,436,2026/08/20,South,Distributor,3288,6.0
+372,478,2025/02/11,West,Clinic,2427,18.7
+373,967,2026/02/13,Northeast,Hospital,1819,1.7
+374,413,2025/03/19,South,Distributor,1545,17.5
+375,880,2025/11/23,West,Distributor,990,26.9
+376,175,2025/07/28,West,Clinic,3825,11.6
+377,762,2025/07/05,Central,Hospital,891,17.2
+378,519,2026/07/21,North,Retail Pharmacy,4195,22.4
+379,206,2025/04/13,Northeast,Retail Pharmacy,4329,12.5
+380,683,2025/03/04,Central,Distributor,3024,2.7
+381,120,2026/04/30,East,Retail Pharmacy,4438,7.6
+382,383,2026/07/27,East,Hospital,811,7.3
+383,819,2026/06/15,Central,Hospital,1525,12.4
+384,969,2026/02/02,East,Distributor,513,6.4
+385,677,2026/02/25,North,Government Hospital,1817,22.4
+386,109,2025/07/20,Central,Government Hospital,378,14.6
+387,656,2025/06/29,Northeast,Retail Pharmacy,958,3.3
+388,901,2026/02/08,North,Retail Pharmacy,2729,28.1
+389,293,2025/05/09,East,Retail Pharmacy,3349,22.1
+390,110,2025/06/15,West,Hospital,4899,3.4
+391,40,2026/03/03,Northeast,Government Hospital,2116,16.2
+392,712,2025/01/06,Central,Government Hospital,3576,15.1
+393,646,2025/05/23,Central,Retail Pharmacy,4624,3.5
+394,648,2025/07/24,North,Clinic,10,25.7
+395,755,2026/08/30,Central,Distributor,1063,5.4
+396,996,2026/07/11,South,Retail Pharmacy,151,28.6
+397,149,2025/02/08,East,Government Hospital,3069,9.6
+398,895,2025/04/01,Northeast,Distributor,1633,19.5
+399,813,2025/04/08,Central,Hospital,3246,13.5
+400,289,2025/03/14,North,Hospital,4231,8.3
+401,852,2025/11/21,South,Government Hospital,1844,7.9
+402,7,2026/05/04,South,Government Hospital,4387,28.8
+403,975,2025/11/26,South,Hospital,2331,8.8
+404,445,2025/07/14,East,Retail Pharmacy,3912,27.7
+405,517,2025/04/21,East,Retail Pharmacy,1544,29.9
+406,715,2025/01/10,Central,Clinic,950,20.8
+407,865,2025/03/13,South,Hospital,4020,27.9
+408,612,2026/08/10,East,Clinic,654,16.3
+409,470,2025/02/03,South,Distributor,4645,14.7
+410,850,2025/09/25,Northeast,Government Hospital,2388,9.3
+411,928,2025/05/17,South,Hospital,1893,26.2
+412,233,2025/09/15,Central,Hospital,4139,10.7
+413,101,2025/10/23,North,Clinic,1796,9.7
+414,282,2026/01/24,Central,Distributor,1654,18.3
+415,665,2026/04/13,Central,Distributor,1226,18.4
+416,889,2026/01/23,Northeast,Hospital,1585,5.6
+417,848,2026/04/13,West,Distributor,4694,18.4
+418,956,2025/12/02,East,Hospital,3207,20.7
+419,907,2025/09/12,East,Hospital,3710,1.0
+420,866,2026/04/20,West,Clinic,3385,28.2
+421,947,2026/08/20,Central,Distributor,218,8.4
+422,268,2025/12/07,East,Government Hospital,2556,2.0
+423,314,2026/11/29,South,Clinic,4378,4.1
+424,248,2026/08/23,East,Distributor,351,5.4
+425,186,2026/08/17,North,Government Hospital,3386,9.4
+426,68,2025/03/01,East,Retail Pharmacy,2420,5.2
+427,966,2026/12/07,Central,Retail Pharmacy,2156,14.3
+428,388,2026/06/01,East,Clinic,4327,22.2
+429,964,2025/03/18,Central,Distributor,1497,25.1
+430,848,2026/01/25,East,Hospital,46,13.1
+431,419,2026/11/22,Central,Clinic,1235,20.0
+432,332,2025/07/02,South,Hospital,1390,25.2
+433,793,2025/08/21,North,Government Hospital,4683,20.7
+434,38,2025/03/21,North,Hospital,3133,22.4
+435,36,2025/10/09,East,Distributor,1561,17.8
+436,451,2026/03/28,East,Hospital,1624,6.0
+437,862,2026/02/23,Central,Clinic,4919,14.1
+438,108,2026/06/29,Northeast,Distributor,2104,0.4
+439,641,2025/02/08,Northeast,Clinic,4336,2.0
+440,422,2026/09/15,Northeast,Government Hospital,3343,2.2
+441,529,2026/07/28,Central,Hospital,4103,11.0
+442,756,2025/08/16,South,Clinic,1905,20.3
+443,282,2025/06/14,East,Clinic,538,18.3
+444,576,2026/07/19,North,Clinic,3508,27.9
+445,578,2025/07/12,Northeast,Government Hospital,2736,6.1
+446,464,2025/01/14,East,Government Hospital,712,14.2
+447,57,2026/05/25,West,Hospital,2275,13.4
+448,944,2026/10/22,Central,Retail Pharmacy,3173,9.2
+449,177,2025/11/07,South,Retail Pharmacy,927,2.7
+450,826,2025/12/27,East,Hospital,3490,13.7
+451,7,2025/06/13,Northeast,Retail Pharmacy,1224,4.9
+452,370,2025/11/20,Northeast,Retail Pharmacy,3982,1.9
+453,553,2026/11/14,Northeast,Hospital,1675,14.8
+454,206,2026/01/20,North,Hospital,2972,8.0
+455,249,2025/03/08,Northeast,Government Hospital,3120,22.4
+456,694,2026/09/23,East,Government Hospital,4117,27.2
+457,736,2025/11/22,South,Retail Pharmacy,2628,23.3
+458,255,2025/02/04,West,Clinic,301,15.1
+459,515,2025/08/27,North,Retail Pharmacy,3995,21.7
+460,502,2025/05/09,Central,Retail Pharmacy,1882,27.1
+461,303,2026/02/25,West,Government Hospital,1761,10.5
+462,903,2026/01/15,Northeast,Government Hospital,3199,9.6
+463,686,2026/04/17,Central,Hospital,15,15.1
+464,310,2025/11/18,East,Government Hospital,3058,3.4
+465,157,2026/12/09,Northeast,Government Hospital,22,7.1
+466,249,2026/06/22,East,Government Hospital,3567,22.7
+467,694,2025/03/11,Northeast,Government Hospital,2822,15.5
+468,720,2025/02/20,West,Distributor,4302,3.5
+469,400,2026/12/07,North,Hospital,2496,6.4
+470,573,2025/02/15,North,Clinic,3002,14.3
+471,310,2026/05/13,South,Distributor,1413,24.5
+472,868,2026/09/15,North,Hospital,2464,16.9
+473,733,2025/11/28,Central,Clinic,3583,26.0
+474,683,2026/10/20,East,Retail Pharmacy,3283,18.2
+475,513,2025/07/10,West,Clinic,3169,17.7
+476,345,2025/01/25,South,Hospital,1677,29.2
+477,269,2026/05/01,North,Distributor,1712,18.8
+478,222,2026/03/04,East,Clinic,641,24.2
+479,798,2026/07/12,South,Retail Pharmacy,4956,26.4
+480,545,2025/08/24,East,Distributor,4524,20.1
+481,242,2025/12/25,North,Hospital,454,28.1
+482,41,2026/03/15,East,Distributor,2812,9.3
+483,646,2026/05/21,South,Clinic,3920,25.0
+484,130,2026/09/11,South,Government Hospital,1310,0.7
+485,927,2025/11/18,North,Distributor,4770,3.2
+486,37,2026/12/06,West,Distributor,1533,16.7
+487,921,2025/01/23,East,Retail Pharmacy,4922,24.7
+488,103,2025/04/12,Northeast,Retail Pharmacy,209,14.0
+489,155,2026/09/02,South,Distributor,381,17.9
+490,164,2026/03/22,East,Retail Pharmacy,3036,14.3
+491,59,2026/10/08,North,Hospital,202,18.1
+492,329,2026/12/14,East,Government Hospital,1222,4.8
+493,237,2025/10/11,Central,Retail Pharmacy,2221,15.2
+494,536,2025/02/18,Central,Government Hospital,1913,7.8
+495,948,2026/10/20,West,Clinic,788,9.8
+496,827,2026/03/30,West,Government Hospital,528,1.7
+497,746,2026/05/24,West,Distributor,1626,8.7
+498,586,2025/12/29,Central,Government Hospital,30,2.9
+499,323,2025/10/18,North,Hospital,543,7.5
+500,501,2026/09/13,South,Hospital,4050,15.7
+501,9,2026/04/10,North,Hospital,4975,10.4
+502,11,2026/04/12,East,Distributor,2886,25.0
+503,199,2026/05/29,South,Retail Pharmacy,217,20.8
+504,78,2025/08/23,North,Government Hospital,2662,4.5
+505,593,2026/04/14,East,Distributor,509,8.4
+506,4,2025/04/16,Northeast,Distributor,800,2.9
+507,141,2026/05/05,South,Clinic,2814,6.6
+508,959,2026/10/23,North,Clinic,1096,29.5
+509,325,2025/12/05,Northeast,Government Hospital,1611,17.3
+510,8,2026/04/24,Northeast,Clinic,3043,24.4
+511,777,2026/11/01,South,Retail Pharmacy,2255,25.9
+512,157,2026/03/27,South,Government Hospital,3022,0.4
+513,792,2026/10/04,West,Hospital,3637,14.7
+514,552,2025/03/27,Northeast,Retail Pharmacy,3011,12.7
+515,856,2026/01/12,Northeast,Hospital,1024,14.5
+516,341,2025/08/24,North,Government Hospital,355,22.4
+517,395,2026/03/28,West,Government Hospital,1205,8.5
+518,228,2026/07/02,South,Retail Pharmacy,3992,26.8
+519,358,2025/01/13,North,Retail Pharmacy,989,10.2
+520,295,2026/07/16,Northeast,Hospital,335,27.8
+521,273,2025/09/05,Central,Government Hospital,2771,25.0
+522,826,2026/10/24,Central,Hospital,3278,9.1
+523,434,2025/05/22,Central,Retail Pharmacy,4397,21.4
+524,268,2026/08/21,Central,Retail Pharmacy,1509,6.6
+525,526,2025/07/22,West,Hospital,4974,15.5
+526,741,2025/05/15,Northeast,Hospital,1945,9.0
+527,420,2026/11/24,Northeast,Retail Pharmacy,1020,20.6
+528,382,2026/02/07,Central,Hospital,3088,9.1
+529,104,2026/02/03,West,Clinic,3307,24.4
+530,705,2025/11/09,Northeast,Government Hospital,4236,6.5
+531,159,2026/06/17,Northeast,Hospital,1357,13.0
+532,27,2026/08/03,East,Government Hospital,2922,6.7
+533,241,2025/04/29,Central,Hospital,2583,16.3
+534,532,2026/01/30,South,Government Hospital,1409,18.3
+535,989,2026/07/26,North,Hospital,3978,6.3
+536,535,2026/06/11,South,Retail Pharmacy,3899,23.8
+537,432,2026/08/12,West,Distributor,215,2.5
+538,428,2026/01/10,Northeast,Government Hospital,838,27.7
+539,840,2026/12/07,East,Government Hospital,3908,27.5
+540,338,2025/03/29,East,Government Hospital,1842,11.8
+541,153,2025/11/04,North,Government Hospital,2175,13.8
+542,866,2026/01/29,South,Clinic,621,22.1
+543,20,2026/07/16,Northeast,Clinic,814,16.0
+544,774,2025/07/12,Northeast,Distributor,3784,19.7
+545,524,2025/03/06,South,Hospital,2379,2.6
+546,579,2025/05/23,North,Hospital,3115,16.6
+547,156,2026/09/20,Central,Retail Pharmacy,388,23.3
+548,341,2025/12/13,East,Clinic,2175,4.0
+549,285,2026/11/18,Central,Clinic,2486,20.9
+550,755,2025/01/05,Central,Retail Pharmacy,1606,8.5
+551,671,2026/02/17,North,Hospital,4648,12.4
+552,467,2026/04/24,Central,Government Hospital,2639,2.5
+553,264,2026/03/24,North,Government Hospital,4659,17.9
+554,844,2025/01/28,Central,Hospital,119,7.0
+555,915,2025/02/19,Central,Retail Pharmacy,3992,6.5
+556,169,2026/08/11,North,Retail Pharmacy,506,27.4
+557,882,2026/06/13,South,Government Hospital,1784,21.7
+558,190,2026/04/13,North,Retail Pharmacy,1895,10.6
+559,178,2025/01/26,Central,Distributor,2299,24.9
+560,88,2025/01/11,South,Government Hospital,2147,8.4
+561,269,2025/03/20,West,Distributor,2104,6.1
+562,437,2025/06/07,South,Retail Pharmacy,3025,24.1
+563,773,2025/01/05,Northeast,Retail Pharmacy,4905,6.4
+564,706,2025/12/22,Central,Government Hospital,260,14.0
+565,529,2025/08/11,Northeast,Distributor,354,9.6
+566,560,2025/08/26,Central,Distributor,2133,23.4
+567,923,2026/09/08,Northeast,Retail Pharmacy,4114,6.4
+568,303,2026/12/28,East,Hospital,472,18.1
+569,439,2026/05/15,North,Hospital,947,9.8
+570,986,2026/10/03,South,Government Hospital,565,13.9
+571,61,2026/06/24,Central,Hospital,1235,24.4
+572,288,2025/02/14,Northeast,Government Hospital,3788,3.5
+573,817,2025/03/21,East,Retail Pharmacy,4826,16.6
+574,671,2025/07/09,Central,Distributor,4396,23.9
+575,973,2025/03/16,South,Retail Pharmacy,2894,12.9
+576,376,2025/09/05,Northeast,Clinic,121,10.9
+577,586,2025/10/18,Central,Retail Pharmacy,412,9.0
+578,472,2026/12/09,Northeast,Distributor,3060,15.3
+579,669,2026/12/30,West,Retail Pharmacy,2064,19.4
+580,585,2025/07/08,East,Government Hospital,2817,9.4
+581,860,2026/05/17,South,Hospital,442,4.6
+582,532,2026/11/25,Northeast,Clinic,3439,12.7
+583,83,2026/09/19,West,Retail Pharmacy,3781,2.6
+584,285,2026/12/05,Northeast,Government Hospital,3663,3.9
+585,725,2026/07/13,Northeast,Retail Pharmacy,3532,9.8
+586,280,2026/07/12,Northeast,Distributor,1953,26.4
+587,56,2026/04/21,East,Retail Pharmacy,3518,25.9
+588,475,2025/06/02,Central,Government Hospital,4201,12.9
+589,751,2025/12/11,East,Government Hospital,2494,24.5
+590,664,2026/10/20,Central,Distributor,3977,19.2
+591,172,2025/02/15,South,Retail Pharmacy,3129,3.2
+592,631,2025/09/14,North,Retail Pharmacy,135,3.7
+593,306,2025/06/29,North,Retail Pharmacy,4170,16.2
+594,642,2026/01/13,Central,Distributor,937,21.8
+595,10,2025/10/18,West,Clinic,3709,15.0
+596,953,2025/07/17,Central,Clinic,3291,3.4
+597,463,2025/08/28,Northeast,Retail Pharmacy,4122,23.4
+598,879,2026/03/02,Northeast,Retail Pharmacy,2243,29.1
+599,311,2025/08/14,West,Hospital,4553,16.9
+600,931,2026/05/31,East,Clinic,1925,12.9
+601,57,2026/03/16,West,Government Hospital,1437,20.6
+602,361,2025/06/10,South,Distributor,1337,28.0
+603,65,2026/12/21,South,Distributor,2652,12.2
+604,784,2025/08/13,Northeast,Hospital,173,13.6
+605,954,2026/08/28,South,Distributor,4646,14.0
+606,945,2025/12/09,Northeast,Clinic,2850,9.7
+607,743,2026/09/19,South,Clinic,1382,12.9
+608,824,2025/06/16,West,Retail Pharmacy,4761,12.7
+609,542,2025/09/23,Central,Hospital,3498,27.7
+610,741,2025/11/13,Central,Government Hospital,4113,12.0
+611,30,2026/08/16,West,Hospital,2924,29.4
+612,503,2026/05/03,South,Clinic,3687,3.8
+613,448,2025/06/07,Northeast,Government Hospital,4181,25.5
+614,831,2026/02/26,West,Clinic,394,19.6
+615,913,2025/04/26,West,Government Hospital,49,22.3
+616,257,2026/08/02,East,Distributor,1911,12.7
+617,63,2025/04/28,West,Retail Pharmacy,1543,13.8
+618,500,2025/09/08,South,Distributor,4778,28.3
+619,690,2025/02/10,West,Retail Pharmacy,1199,29.2
+620,61,2026/05/31,Central,Retail Pharmacy,1118,4.5
+621,288,2025/09/30,Northeast,Government Hospital,600,25.5
+622,787,2026/07/10,North,Retail Pharmacy,4458,21.2
+623,126,2025/11/08,South,Hospital,4494,21.9
+624,446,2025/03/08,North,Government Hospital,3992,10.5
+625,22,2026/07/22,Northeast,Clinic,1099,9.6
+626,859,2026/05/25,Northeast,Clinic,1222,15.8
+627,260,2026/12/18,South,Distributor,605,16.3
+628,890,2026/05/11,Northeast,Government Hospital,1955,14.8
+629,306,2026/07/23,South,Hospital,2661,18.7
+630,360,2025/06/18,South,Government Hospital,1026,22.3
+631,524,2026/04/09,Northeast,Clinic,405,14.4
+632,229,2026/02/22,East,Government Hospital,4468,7.9
+633,124,2026/01/19,West,Government Hospital,1372,2.7
+634,490,2026/05/30,Northeast,Retail Pharmacy,2634,11.6
+635,780,2025/12/09,South,Government Hospital,1924,25.7
+636,32,2026/03/09,East,Clinic,1926,17.3
+637,970,2026/08/12,North,Distributor,3570,29.9
+638,267,2025/06/13,Central,Retail Pharmacy,3677,1.9
+639,984,2025/02/16,Central,Retail Pharmacy,2050,7.8
+640,731,2025/06/11,Northeast,Retail Pharmacy,1773,9.3
+641,743,2026/03/18,Central,Government Hospital,2133,7.0
+642,52,2025/04/02,West,Distributor,1840,14.1
+643,682,2025/10/06,Northeast,Distributor,2210,21.8
+644,681,2026/08/15,Northeast,Hospital,1111,25.8
+645,182,2026/01/04,Central,Retail Pharmacy,2673,6.7
+646,692,2025/02/17,Central,Retail Pharmacy,234,4.7
+647,822,2026/01/20,Central,Clinic,3695,29.6
+648,903,2025/12/06,North,Retail Pharmacy,2300,1.6
+649,390,2026/09/06,East,Hospital,2010,24.0
+650,502,2026/06/20,Northeast,Clinic,1300,7.9
+651,698,2025/03/15,East,Government Hospital,1638,14.0
+652,990,2026/01/27,East,Government Hospital,885,27.5
+653,64,2025/11/26,West,Hospital,1521,18.7
+654,903,2026/10/15,East,Clinic,36,16.7
+655,222,2026/10/18,East,Clinic,879,29.2
+656,1000,2026/09/23,West,Hospital,4275,17.8
+657,550,2025/05/22,South,Retail Pharmacy,10,6.7
+658,340,2026/07/30,Central,Government Hospital,4241,25.6
+659,314,2025/01/18,Northeast,Retail Pharmacy,2855,20.9
+660,114,2025/04/01,East,Hospital,1412,24.3
+661,20,2026/02/24,West,Hospital,744,7.1
+662,308,2025/02/04,North,Distributor,1681,27.6
+663,927,2026/06/01,Central,Distributor,2316,9.6
+664,965,2025/06/19,South,Hospital,93,29.4
+665,679,2025/07/17,South,Retail Pharmacy,1237,25.0
+666,169,2025/11/19,West,Retail Pharmacy,3918,8.8
+667,675,2025/08/03,Northeast,Clinic,4119,20.7
+668,292,2025/08/10,West,Government Hospital,859,27.1
+669,20,2025/05/02,North,Government Hospital,3686,13.2
+670,326,2026/02/27,South,Clinic,3272,6.5
+671,505,2025/11/26,South,Hospital,3235,17.6
+672,861,2025/11/25,South,Government Hospital,1581,24.6
+673,495,2026/04/09,West,Government Hospital,3930,0.2
+674,103,2026/09/04,Central,Clinic,4332,7.9
+675,73,2025/10/13,West,Retail Pharmacy,620,12.2
+676,681,2026/07/08,Northeast,Government Hospital,4578,26.9
+677,652,2026/01/27,Central,Clinic,2368,20.8
+678,48,2025/08/26,East,Distributor,1962,6.3
+679,811,2026/09/21,Central,Hospital,811,19.1
+680,350,2025/12/08,North,Distributor,3360,20.9
+681,77,2026/11/16,North,Hospital,4893,18.0
+682,672,2025/12/18,Northeast,Clinic,488,22.0
+683,372,2026/06/03,West,Hospital,4609,21.3
+684,171,2025/05/22,Central,Government Hospital,2979,0.3
+685,431,2026/02/12,West,Distributor,4254,21.7
+686,687,2025/09/12,West,Retail Pharmacy,1985,24.3
+687,484,2026/09/25,South,Clinic,2288,20.8
+688,788,2026/11/04,East,Distributor,3230,6.0
+689,991,2025/04/30,South,Government Hospital,3702,6.4
+690,475,2025/06/01,West,Government Hospital,1653,8.8
+691,858,2026/01/09,West,Clinic,723,3.8
+692,654,2026/11/17,West,Government Hospital,1444,18.5
+693,421,2025/10/10,West,Clinic,788,22.9
+694,649,2026/08/23,Central,Distributor,2982,2.5
+695,755,2025/03/29,Central,Government Hospital,277,23.3
+696,378,2026/08/20,Northeast,Distributor,3191,27.4
+697,280,2025/11/10,East,Retail Pharmacy,2836,8.9
+698,168,2026/08/11,South,Distributor,2175,18.4
+699,439,2025/02/26,West,Government Hospital,979,22.8
+700,423,2026/03/01,Northeast,Government Hospital,1825,29.3
+701,90,2026/08/29,North,Distributor,3563,25.2
+702,180,2026/06/03,Northeast,Clinic,613,24.0
+703,854,2025/11/21,West,Distributor,3327,6.7
+704,203,2025/04/28,Northeast,Hospital,634,16.5
+705,679,2026/11/02,East,Government Hospital,870,10.8
+706,595,2025/07/21,Central,Government Hospital,4004,11.0
+707,674,2025/06/03,South,Retail Pharmacy,1053,14.6
+708,992,2026/11/15,North,Government Hospital,4286,27.1
+709,90,2026/04/29,East,Distributor,3474,23.8
+710,609,2025/10/15,South,Hospital,528,17.5
+711,865,2025/05/17,South,Hospital,2793,18.5
+712,703,2025/07/25,South,Hospital,4580,19.6
+713,649,2025/12/22,South,Government Hospital,1241,12.5
+714,35,2025/09/28,East,Retail Pharmacy,3365,29.0
+715,583,2026/10/22,East,Distributor,1265,4.3
+716,306,2026/10/06,Northeast,Distributor,3125,29.2
+717,740,2025/01/28,West,Government Hospital,4259,12.2
+718,551,2026/04/29,Central,Hospital,4029,11.6
+719,108,2025/02/18,West,Government Hospital,4662,18.2
+720,433,2025/11/04,Northeast,Hospital,3085,11.2
+721,969,2026/11/08,East,Hospital,4773,2.5
+722,37,2025/06/28,East,Government Hospital,29,7.3
+723,716,2025/04/26,Northeast,Hospital,2908,6.8
+724,671,2025/01/01,Central,Retail Pharmacy,4865,5.6
+725,570,2026/03/08,Central,Clinic,3036,24.7
+726,847,2026/02/01,South,Clinic,967,18.4
+727,919,2026/07/13,Central,Government Hospital,2518,0.8
+728,94,2026/02/03,North,Government Hospital,858,4.9
+729,311,2025/10/02,North,Hospital,595,13.9
+730,21,2026/04/14,Northeast,Clinic,1818,8.3
+731,392,2026/12/11,North,Retail Pharmacy,3987,9.2
+732,742,2025/03/31,South,Retail Pharmacy,3692,6.3
+733,182,2025/07/15,East,Clinic,3479,12.2
+734,173,2026/03/28,South,Distributor,2581,25.4
+735,541,2026/03/27,Northeast,Retail Pharmacy,896,3.9
+736,743,2025/10/23,West,Clinic,582,27.0
+737,693,2025/07/10,South,Government Hospital,509,23.9
+738,280,2025/02/14,West,Retail Pharmacy,3013,26.3
+739,262,2026/02/16,North,Hospital,2086,20.6
+740,460,2026/04/25,North,Clinic,2501,22.4
+741,786,2026/11/05,East,Government Hospital,2461,19.6
+742,655,2025/10/09,West,Retail Pharmacy,2885,21.1
+743,136,2026/09/01,East,Distributor,4824,21.0
+744,282,2026/03/02,West,Government Hospital,3468,14.4
+745,262,2025/04/03,Northeast,Government Hospital,4536,22.7
+746,610,2026/04/25,South,Distributor,4099,18.1
+747,719,2026/12/02,West,Hospital,2651,1.1
+748,299,2026/06/29,West,Hospital,400,29.0
+749,869,2026/11/07,Northeast,Government Hospital,40,23.0
+750,750,2026/01/18,East,Hospital,3097,12.9
+751,302,2025/06/16,North,Retail Pharmacy,718,7.7
+752,816,2025/01/30,North,Clinic,3019,21.8
+753,237,2025/06/29,Central,Government Hospital,1710,13.4
+754,491,2025/09/18,West,Hospital,3388,28.1
+755,782,2026/04/15,North,Hospital,3342,22.6
+756,708,2026/09/27,West,Distributor,4872,21.3
+757,36,2025/03/24,East,Hospital,4484,19.4
+758,402,2025/09/01,Central,Hospital,199,29.7
+759,792,2025/05/14,South,Clinic,4345,27.3
+760,534,2026/06/15,South,Clinic,4748,23.3
+761,527,2025/06/23,East,Hospital,446,14.3
+762,167,2025/02/13,East,Hospital,1191,8.7
+763,130,2025/02/18,South,Clinic,4065,5.5
+764,574,2025/02/22,North,Distributor,1172,1.1
+765,578,2025/08/26,Central,Clinic,4481,1.9
+766,447,2025/03/08,West,Government Hospital,1765,18.8
+767,294,2026/06/25,Central,Hospital,1510,2.6
+768,682,2025/04/19,West,Clinic,4786,5.9
+769,640,2025/11/30,East,Hospital,2241,3.0
+770,145,2026/10/04,Northeast,Retail Pharmacy,3902,29.2
+771,272,2026/10/06,East,Government Hospital,2006,23.2
+772,987,2026/07/12,Central,Hospital,1587,23.5
+773,996,2025/12/13,West,Government Hospital,4662,27.3
+774,251,2026/05/23,South,Distributor,53,5.0
+775,40,2026/09/07,West,Distributor,4713,29.8
+776,98,2026/11/06,North,Distributor,2239,11.7
+777,86,2026/06/25,Central,Clinic,3854,11.7
+778,240,2026/09/18,West,Hospital,469,14.0
+779,96,2025/07/06,Northeast,Government Hospital,97,28.9
+780,182,2026/04/22,North,Distributor,904,26.9
+781,852,2026/03/17,East,Distributor,2357,18.2
+782,226,2025/12/05,South,Distributor,737,2.6
+783,695,2026/12/20,Central,Hospital,4608,10.9
+784,428,2025/12/20,South,Government Hospital,1238,25.0
+785,601,2025/02/08,North,Hospital,4024,17.8
+786,781,2026/07/01,West,Clinic,1953,4.7
+787,626,2025/05/09,South,Distributor,1132,13.6
+788,859,2025/04/18,North,Government Hospital,4695,7.4
+789,614,2026/09/23,Northeast,Clinic,316,5.9
+790,607,2026/11/08,South,Distributor,4102,9.6
+791,269,2026/08/12,Northeast,Government Hospital,1616,27.0
+792,534,2025/10/02,West,Clinic,4842,8.0
+793,277,2026/11/28,East,Distributor,1451,22.4
+794,917,2026/06/14,East,Clinic,971,16.7
+795,122,2026/05/27,West,Retail Pharmacy,3440,3.7
+796,699,2025/08/08,West,Distributor,2461,14.7
+797,895,2026/04/23,Northeast,Retail Pharmacy,316,3.4
+798,162,2025/12/14,North,Government Hospital,1188,11.8
+799,549,2026/06/11,Northeast,Government Hospital,2351,13.5
+800,740,2026/08/23,West,Retail Pharmacy,2054,27.2
+801,567,2026/10/29,East,Clinic,4076,27.5
+802,329,2026/10/18,South,Hospital,2130,9.8
+803,595,2025/09/04,Central,Clinic,1406,14.7
+804,706,2025/08/05,Northeast,Clinic,1087,25.9
+805,963,2025/07/18,South,Distributor,4690,26.3
+806,723,2026/08/22,North,Distributor,2368,9.7
+807,767,2026/06/18,North,Clinic,2670,27.1
+808,576,2026/01/04,South,Government Hospital,1875,17.7
+809,761,2025/06/29,East,Hospital,2634,7.9
+810,411,2025/10/10,Northeast,Hospital,231,22.3
+811,818,2026/11/05,West,Clinic,3561,8.1
+812,282,2025/07/19,South,Distributor,3840,21.5
+813,462,2026/05/29,Central,Hospital,3065,23.2
+814,247,2025/01/14,West,Clinic,3828,20.3
+815,115,2025/11/28,North,Hospital,2797,12.2
+816,801,2026/10/02,East,Hospital,2723,24.5
+817,383,2025/02/23,North,Distributor,3698,22.7
+818,65,2026/08/12,South,Clinic,2328,7.8
+819,622,2025/02/04,East,Government Hospital,4017,11.4
+820,150,2026/04/16,Central,Retail Pharmacy,3714,26.9
+821,583,2025/03/16,East,Government Hospital,2143,11.4
+822,211,2025/11/24,West,Government Hospital,3701,11.2
+823,841,2025/01/31,Northeast,Retail Pharmacy,484,14.7
+824,524,2026/03/21,Northeast,Retail Pharmacy,1100,21.4
+825,272,2026/02/12,West,Clinic,4370,8.8
+826,805,2026/01/24,South,Government Hospital,4600,15.4
+827,506,2025/07/22,East,Government Hospital,3444,3.9
+828,941,2025/10/09,South,Hospital,429,12.0
+829,393,2026/05/03,South,Clinic,1975,15.8
+830,348,2025/03/26,Central,Hospital,4488,13.2
+831,660,2025/06/22,North,Clinic,4646,17.1
+832,184,2026/02/01,West,Clinic,3520,1.0
+833,406,2025/02/15,Central,Hospital,1444,17.8
+834,461,2026/01/03,West,Hospital,3106,22.9
+835,499,2026/10/28,Northeast,Hospital,114,22.1
+836,246,2026/08/18,West,Distributor,2702,13.7
+837,977,2025/05/18,North,Government Hospital,3155,1.4
+838,831,2026/08/10,East,Clinic,1005,26.8
+839,875,2026/05/02,Northeast,Government Hospital,2961,26.4
+840,424,2025/09/12,East,Hospital,2264,12.3
+841,562,2025/11/30,North,Government Hospital,1681,9.2
+842,979,2026/09/05,East,Distributor,2765,24.8
+843,763,2026/02/16,South,Distributor,316,26.0
+844,951,2026/07/10,South,Government Hospital,3478,1.8
+845,836,2025/09/14,West,Retail Pharmacy,4087,5.5
+846,401,2026/01/30,Central,Government Hospital,3223,8.2
+847,248,2025/03/23,West,Distributor,2461,9.7
+848,682,2026/09/14,West,Hospital,4350,19.2
+849,284,2025/04/25,Central,Hospital,3917,5.6
+850,810,2026/01/06,Northeast,Retail Pharmacy,2867,27.0
+851,416,2026/06/30,West,Government Hospital,392,10.5
+852,837,2026/03/09,South,Government Hospital,4224,14.7
+853,734,2025/07/20,North,Retail Pharmacy,3223,21.4
+854,147,2025/06/27,North,Retail Pharmacy,3985,24.9
+855,755,2026/10/28,East,Distributor,2985,25.6
+856,788,2026/03/20,East,Hospital,2928,16.6
+857,628,2026/03/29,West,Distributor,2517,10.1
+858,907,2025/12/13,Northeast,Distributor,4377,5.5
+859,477,2026/04/29,West,Hospital,4009,25.8
+860,873,2025/04/10,Northeast,Retail Pharmacy,2123,14.4
+861,21,2025/10/07,East,Clinic,111,0.7
+862,788,2025/06/06,Northeast,Government Hospital,1964,6.1
+863,920,2026/08/19,West,Distributor,1722,29.0
+864,923,2026/08/11,North,Retail Pharmacy,4506,19.7
+865,916,2025/01/20,North,Hospital,4147,13.5
+866,31,2025/08/04,Northeast,Government Hospital,4915,20.7
+867,594,2026/09/16,Northeast,Distributor,1874,13.0
+868,1000,2025/10/10,Northeast,Clinic,4861,11.0
+869,281,2026/11/14,Northeast,Clinic,1219,18.1
+870,795,2026/07/06,North,Government Hospital,1039,28.9
+871,63,2025/10/09,North,Distributor,4293,25.2
+872,532,2026/06/04,Central,Hospital,3161,5.2
+873,798,2025/03/14,West,Government Hospital,2235,4.0
+874,101,2025/12/04,South,Distributor,3268,1.6
+875,416,2025/10/26,Northeast,Clinic,3057,14.1
+876,993,2025/11/24,West,Clinic,3783,29.8
+877,59,2025/03/01,Central,Government Hospital,117,5.8
+878,814,2026/03/22,West,Government Hospital,3835,16.3
+879,433,2026/08/13,Northeast,Clinic,1310,28.5
+880,803,2026/06/12,North,Clinic,4767,6.4
+881,445,2026/08/01,Central,Government Hospital,1850,8.5
+882,600,2026/09/03,West,Hospital,973,6.1
+883,592,2026/10/25,West,Retail Pharmacy,1222,24.6
+884,61,2025/02/25,East,Clinic,1507,13.9
+885,141,2025/01/05,West,Government Hospital,289,16.9
+886,275,2026/11/02,Northeast,Government Hospital,4092,11.9
+887,661,2026/09/17,East,Hospital,4776,1.9
+888,816,2026/12/22,West,Hospital,4323,0.5
+889,404,2025/12/14,East,Government Hospital,1584,4.0
+890,451,2026/10/02,East,Hospital,24,4.5
+891,602,2025/03/21,East,Hospital,2497,28.0
+892,97,2026/09/18,East,Distributor,481,2.0
+893,193,2025/07/13,Northeast,Distributor,2737,8.0
+894,291,2025/08/10,South,Distributor,3308,13.0
+895,115,2025/07/30,North,Distributor,2242,16.5
+896,585,2025/10/23,South,Government Hospital,3145,24.0
+897,365,2026/07/29,South,Retail Pharmacy,2241,24.6
+898,813,2025/11/06,Northeast,Government Hospital,2486,22.7
+899,25,2026/10/23,Central,Retail Pharmacy,3901,27.8
+900,453,2026/09/15,Northeast,Government Hospital,173,12.5
+901,282,2025/08/15,Northeast,Government Hospital,1052,10.7
+902,467,2025/01/26,North,Government Hospital,3438,3.6
+903,276,2026/11/05,South,Retail Pharmacy,4385,4.4
+904,621,2026/04/26,Central,Retail Pharmacy,3073,6.8
+905,448,2026/05/03,South,Clinic,1537,19.3
+906,540,2025/12/24,East,Distributor,4414,21.8
+907,137,2025/03/06,West,Clinic,1536,6.4
+908,27,2026/05/10,West,Retail Pharmacy,1106,25.2
+909,114,2025/06/09,North,Clinic,3420,17.0
+910,921,2025/08/18,Northeast,Retail Pharmacy,4955,15.1
+911,311,2025/12/07,Northeast,Hospital,4080,10.3
+912,991,2025/12/25,Central,Clinic,4694,27.2
+913,842,2025/01/31,Northeast,Clinic,4542,4.6
+914,969,2026/07/12,West,Retail Pharmacy,2503,28.7
+915,947,2025/09/11,Northeast,Distributor,1578,3.7
+916,660,2026/09/25,South,Retail Pharmacy,4821,26.4
+917,917,2025/06/25,North,Hospital,3478,20.9
+918,723,2025/12/10,West,Hospital,2827,7.1
+919,88,2026/03/28,South,Distributor,494,24.9
+920,158,2025/12/08,North,Retail Pharmacy,96,0.8
+921,311,2025/12/26,West,Distributor,132,4.5
+922,795,2026/06/26,North,Hospital,1664,10.7
+923,947,2025/05/12,Central,Retail Pharmacy,1924,19.8
+924,384,2026/11/06,South,Clinic,1527,1.0
+925,263,2026/08/19,East,Distributor,1101,11.3
+926,941,2025/02/12,Northeast,Retail Pharmacy,1063,29.3
+927,123,2026/10/14,Northeast,Hospital,1977,19.1
+928,186,2026/11/18,Northeast,Hospital,1627,16.2
+929,317,2026/09/08,North,Hospital,999,18.3
+930,47,2025/01/01,North,Clinic,1850,2.6
+931,681,2025/11/25,Northeast,Clinic,4671,9.4
+932,36,2026/09/07,Central,Retail Pharmacy,355,4.1
+933,601,2026/05/07,North,Distributor,3960,3.4
+934,345,2026/10/15,South,Retail Pharmacy,4205,7.1
+935,605,2025/01/24,Northeast,Retail Pharmacy,1507,19.8
+936,324,2026/07/21,East,Retail Pharmacy,185,3.3
+937,675,2025/12/27,West,Government Hospital,399,9.5
+938,286,2026/05/04,South,Government Hospital,2406,10.6
+939,500,2026/01/16,West,Clinic,1091,7.3
+940,534,2025/12/13,Northeast,Retail Pharmacy,1508,2.9
+941,290,2025/08/26,South,Clinic,4931,19.2
+942,262,2026/10/05,North,Distributor,397,3.0
+943,268,2025/07/16,South,Hospital,3822,24.9
+944,314,2026/01/18,South,Distributor,4045,25.7
+945,730,2025/04/26,East,Distributor,2522,17.7
+946,7,2025/08/23,Northeast,Government Hospital,659,12.8
+947,627,2026/11/02,East,Hospital,3906,27.6
+948,807,2026/07/18,East,Hospital,441,25.8
+949,42,2026/01/03,West,Clinic,3630,19.1
+950,739,2025/08/04,Northeast,Hospital,2065,2.7
+951,144,2026/05/30,South,Distributor,627,20.7
+952,669,2026/11/25,West,Hospital,2053,7.7
+953,383,2026/10/18,North,Government Hospital,1627,7.6
+954,406,2026/03/18,West,Clinic,507,15.0
+955,67,2026/07/12,West,Distributor,1735,0.9
+956,228,2026/09/02,East,Clinic,4233,8.6
+957,254,2025/12/27,West,Government Hospital,4260,2.7
+958,368,2025/07/25,West,Clinic,189,9.3
+959,680,2026/06/30,West,Government Hospital,4492,24.1
+960,264,2026/11/02,Central,Distributor,882,22.8
+961,506,2025/04/07,West,Distributor,323,22.7
+962,255,2025/05/23,North,Hospital,643,18.0
+963,185,2025/05/07,Central,Government Hospital,4041,25.1
+964,210,2025/05/26,West,Government Hospital,3482,0.8
+965,575,2026/05/09,South,Hospital,2199,7.6
+966,572,2025/09/02,Central,Hospital,2095,12.1
+967,446,2026/11/14,South,Retail Pharmacy,1475,10.0
+968,86,2026/09/24,South,Hospital,2092,13.6
+969,897,2025/06/15,North,Retail Pharmacy,3347,15.0
+970,50,2026/08/26,Northeast,Clinic,2128,7.3
+971,798,2025/05/27,East,Distributor,2983,24.1
+972,438,2026/10/28,Northeast,Distributor,1464,10.4
+973,138,2026/12/21,West,Distributor,4880,22.7
+974,178,2025/06/23,South,Government Hospital,4839,13.0
+975,992,2025/03/14,East,Retail Pharmacy,322,8.9
+976,404,2026/07/23,Northeast,Government Hospital,1549,26.1
+977,697,2026/12/12,East,Clinic,4484,1.9
+978,656,2026/02/26,South,Hospital,3329,27.1
+979,938,2025/05/07,Central,Clinic,4274,23.6
+980,204,2026/09/07,East,Clinic,2466,18.3
+981,85,2026/10/06,South,Retail Pharmacy,1229,2.0
+982,935,2025/05/22,Northeast,Retail Pharmacy,142,21.2
+983,33,2025/11/30,West,Government Hospital,378,3.0
+984,335,2025/10/16,Central,Government Hospital,737,8.8
+985,486,2025/01/30,North,Distributor,4184,29.7
+986,288,2026/07/30,Northeast,Hospital,4906,15.9
+987,591,2025/03/17,East,Government Hospital,4443,11.1
+988,372,2026/06/29,East,Distributor,1362,16.2
+989,536,2025/09/24,North,Government Hospital,848,26.3
+990,216,2025/09/05,East,Government Hospital,1184,8.1
+991,380,2026/05/16,West,Government Hospital,214,23.2
+992,284,2026/10/15,South,Government Hospital,1679,26.9
+993,382,2025/06/30,East,Retail Pharmacy,767,0.7
+994,323,2026/04/27,North,Clinic,2382,27.3
+995,82,2026/11/23,East,Clinic,1214,16.1
+996,8,2026/10/26,South,Retail Pharmacy,3191,7.5
+997,812,2026/06/08,Central,Distributor,3234,26.9
+998,778,2025/01/07,North,Government Hospital,2239,0.7
+999,502,2026/02/16,West,Distributor,3352,5.8
+1000,360,2026/03/25,South,Distributor,87,16.7

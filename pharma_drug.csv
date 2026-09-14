@@ -1,0 +1,1001 @@
+drug_id,drug_name,therapeutic_area,dosage_form,unit_price,manufacturer
+1,Pantoprazole,Anti-inflammatory,Capsule,66,Glenmark
+2,Metformin,Anticancer,Injection,8,Alkem Laboratories
+3,Pregabalin,Anticancer,Ointment,64,Glenmark
+4,Paracetamol,Anticancer,Suspension,33,Sun Pharma
+5,Acyclovir,Antibiotic,Syrup,86,Mankind Pharm
+6,Sertraline,Antibiotic,Injection,25,Cipla
+7,Pregabalin,CNS,Ointment,6,Sun Pharma
+8,Domperidone,Cardiovascular,Suspension,95,Torrent Pharma
+9,Losartan,Cardiovascular,Cream,83,Torrent Pharma
+10,Telmisartan,Anti-inflammatory,Suspension,29,Glenmark
+11,Sertraline,Antibiotic,Cream,98,Abbott
+12,Aceclofenac,Antidiabetic,Tablet,19,Dr Reddy's
+13,Atorvastatin,Anticancer,Injection,95,Dr Reddy's
+14,Escitalopram,Anticancer,Suspension,24,Sun Pharma
+15,Pantoprazole,Analgesic,Injection,90,Sun Pharma
+16,Ibuprofen,Antidiabetic,Cream,25,Glenmark
+17,Paracetamol,Cardiovascular,Ointment,48,Mankind Pharm
+18,Azithromycin,Cardiovascular,Suspension,43,Alkem Laboratories
+19,Aceclofenac,Antibiotic,Inhaler,10,Glenmark
+20,Rabeprazole,Respiratory,Capsule,80,Mankind Pharm
+21,Acyclovir,Antibiotic,Cream,16,Zydus
+22,Sertraline,Anticancer,Inhaler,17,Lupin
+23,Rabeprazole,Antidiabetic,Suspension,7,Zydus
+24,Gabapentin,Anticancer,Suspension,40,Lupin
+25,Pregabalin,Anti-inflammatory,Ointment,29,Alkem Laboratories
+26,Budesonide,Antidiabetic,Ointment,51,Cipla
+27,Sitagliptin,Gastrointestinal,Capsule,28,Glenmark
+28,Azithromycin,Antibiotic,Suspension,24,Mankind Pharm
+29,Amoxicillin,Antiviral,Capsule,48,Torrent Pharma
+30,Gabapentin,Cardiovascular,Syrup,60,Mankind Pharm
+31,Budesonide,Gastrointestinal,Ointment,96,Lupin
+32,Losartan,Anticancer,Cream,21,Torrent Pharma
+33,Sertraline,Respiratory,Ointment,26,Zydus
+34,Fluoxetine,CNS,Syrup,87,Alkem Laboratories
+35,Salbutamol,Antidiabetic,Cream,4,Sun Pharma
+36,Atorvastatin,Antibiotic,Capsule,50,Lupin
+37,Cefixime,Antiviral,Syrup,77,Sun Pharma
+38,Atorvastatin,Antiviral,Ointment,45,Zydus
+39,Gabapentin,CNS,Injection,10,Cipla
+40,Acyclovir,CNS,Syrup,95,Abbott
+41,Aceclofenac,Anticancer,Capsule,56,Zydus
+42,Rosuvastatin,Antibiotic,Suspension,22,Sun Pharma
+43,Metformin,Gastrointestinal,Ointment,60,Sun Pharma
+44,Budesonide,Anti-inflammatory,Inhaler,11,Lupin
+45,Paracetamol,Anticancer,Suspension,16,Alkem Laboratories
+46,Amlodipine,Anticancer,Suspension,52,Sun Pharma
+47,Doxycycline,CNS,Inhaler,92,Dr Reddy's
+48,Diclofenac,Antidiabetic,Inhaler,3,Cipla
+49,Pregabalin,Analgesic,Cream,46,Torrent Pharma
+50,Gabapentin,Analgesic,Capsule,45,Sun Pharma
+51,Pregabalin,Antidiabetic,Capsule,22,Mankind Pharm
+52,Salbutamol,Anti-inflammatory,Inhaler,6,Dr Reddy's
+53,Gabapentin,Gastrointestinal,Inhaler,22,Lupin
+54,Rosuvastatin,Antibiotic,Suspension,63,Mankind Pharm
+55,Salbutamol,Antiviral,Cream,49,Mankind Pharm
+56,Amoxicillin,Respiratory,Cream,78,Glenmark
+57,Diclofenac,Respiratory,Cream,90,Alkem Laboratories
+58,Amlodipine,Antibiotic,Cream,91,Sun Pharma
+59,Diclofenac,Anti-inflammatory,Capsule,42,Dr Reddy's
+60,Sertraline,CNS,Tablet,87,Sun Pharma
+61,Aceclofenac,Analgesic,Tablet,19,Glenmark
+62,Rabeprazole,Analgesic,Tablet,54,Torrent Pharma
+63,Rosuvastatin,Cardiovascular,Cream,44,Mankind Pharm
+64,Pregabalin,Cardiovascular,Ointment,54,Zydus
+65,Aceclofenac,Antibiotic,Syrup,83,Alkem Laboratories
+66,Budesonide,Respiratory,Cream,63,Torrent Pharma
+67,Ibuprofen,Anti-inflammatory,Suspension,70,Lupin
+68,Azithromycin,Gastrointestinal,Suspension,77,Zydus
+69,Metformin,Anticancer,Inhaler,21,Alkem Laboratories
+70,Diclofenac,Antibiotic,Capsule,8,Zydus
+71,Amoxicillin,Respiratory,Capsule,69,Cipla
+72,Telmisartan,Anti-inflammatory,Syrup,52,Zydus
+73,Montelukast,Gastrointestinal,Suspension,41,Dr Reddy's
+74,Escitalopram,Antidiabetic,Suspension,58,Abbott
+75,Losartan,Anticancer,Tablet,35,Alkem Laboratories
+76,Aceclofenac,Respiratory,Ointment,65,Abbott
+77,Pantoprazole,Analgesic,Ointment,30,Cipla
+78,Ibuprofen,Analgesic,Syrup,75,Torrent Pharma
+79,Domperidone,Antibiotic,Suspension,30,Mankind Pharm
+80,Amoxicillin,Antidiabetic,Cream,6,Cipla
+81,Doxycycline,Antibiotic,Syrup,74,Glenmark
+82,Fluoxetine,Respiratory,Tablet,62,Sun Pharma
+83,Telmisartan,Analgesic,Injection,3,Torrent Pharma
+84,Doxycycline,Antiviral,Capsule,31,Lupin
+85,Gabapentin,Respiratory,Ointment,68,Torrent Pharma
+86,Budesonide,Antibiotic,Capsule,87,Abbott
+87,Montelukast,Gastrointestinal,Inhaler,86,Torrent Pharma
+88,Metformin,Analgesic,Capsule,52,Glenmark
+89,Empagliflozin,Respiratory,Ointment,73,Sun Pharma
+90,Empagliflozin,Respiratory,Tablet,48,Abbott
+91,Azithromycin,Anticancer,Tablet,2,Glenmark
+92,Pantoprazole,Anti-inflammatory,Capsule,39,Sun Pharma
+93,Sertraline,CNS,Tablet,12,Sun Pharma
+94,Acyclovir,Anti-inflammatory,Cream,34,Dr Reddy's
+95,Metformin,Analgesic,Ointment,35,Cipla
+96,Gabapentin,Respiratory,Ointment,40,Dr Reddy's
+97,Pantoprazole,Cardiovascular,Ointment,3,Lupin
+98,Rabeprazole,Anti-inflammatory,Syrup,22,Lupin
+99,Gabapentin,Antibiotic,Suspension,24,Dr Reddy's
+100,Atorvastatin,Antiviral,Cream,53,Glenmark
+101,Atorvastatin,Anti-inflammatory,Syrup,16,Dr Reddy's
+102,Metformin,Antiviral,Syrup,99,Alkem Laboratories
+103,Rabeprazole,Respiratory,Cream,97,Dr Reddy's
+104,Metformin,Anticancer,Ointment,54,Dr Reddy's
+105,Diclofenac,Anticancer,Cream,53,Sun Pharma
+106,Ibuprofen,Analgesic,Inhaler,39,Torrent Pharma
+107,Cefixime,Antibiotic,Tablet,81,Glenmark
+108,Gabapentin,Gastrointestinal,Suspension,79,Abbott
+109,Aceclofenac,Antidiabetic,Inhaler,40,Mankind Pharm
+110,Amoxicillin,Anticancer,Ointment,61,Glenmark
+111,Fluoxetine,Anticancer,Inhaler,62,Alkem Laboratories
+112,Dapagliflozin,Analgesic,Injection,6,Alkem Laboratories
+113,Metformin,Anticancer,Syrup,1,Abbott
+114,Rabeprazole,Anticancer,Ointment,17,Sun Pharma
+115,Pantoprazole,CNS,Ointment,54,Zydus
+116,Telmisartan,Antidiabetic,Ointment,26,Alkem Laboratories
+117,Montelukast,Respiratory,Ointment,29,Mankind Pharm
+118,Doxycycline,Antibiotic,Syrup,42,Sun Pharma
+119,Azithromycin,Anticancer,Ointment,31,Alkem Laboratories
+120,Rabeprazole,Cardiovascular,Injection,11,Mankind Pharm
+121,Salbutamol,CNS,Injection,61,Mankind Pharm
+122,Empagliflozin,Cardiovascular,Injection,78,Torrent Pharma
+123,Azithromycin,Antibiotic,Inhaler,92,Cipla
+124,Losartan,Anti-inflammatory,Suspension,65,Cipla
+125,Diclofenac,Antiviral,Capsule,53,Sun Pharma
+126,Fluoxetine,Antiviral,Inhaler,78,Torrent Pharma
+127,Montelukast,Gastrointestinal,Tablet,46,Dr Reddy's
+128,Paracetamol,Cardiovascular,Syrup,58,Zydus
+129,Empagliflozin,Anticancer,Suspension,99,Glenmark
+130,Salbutamol,Antiviral,Injection,7,Glenmark
+131,Atorvastatin,Anticancer,Inhaler,75,Zydus
+132,Dapagliflozin,Respiratory,Cream,24,Alkem Laboratories
+133,Sitagliptin,CNS,Cream,81,Zydus
+134,Metformin,Respiratory,Suspension,21,Dr Reddy's
+135,Amlodipine,Antibiotic,Suspension,71,Abbott
+136,Dapagliflozin,Antiviral,Tablet,94,Abbott
+137,Cefixime,Analgesic,Inhaler,22,Zydus
+138,Losartan,Gastrointestinal,Ointment,2,Mankind Pharm
+139,Sertraline,Antiviral,Syrup,75,Torrent Pharma
+140,Azithromycin,Anti-inflammatory,Tablet,57,Glenmark
+141,Cefixime,Antiviral,Ointment,21,Mankind Pharm
+142,Rosuvastatin,Antiviral,Injection,96,Lupin
+143,Aceclofenac,Antiviral,Cream,59,Mankind Pharm
+144,Pantoprazole,Antiviral,Suspension,41,Cipla
+145,Losartan,Antibiotic,Suspension,75,Dr Reddy's
+146,Sertraline,Analgesic,Suspension,91,Zydus
+147,Ibuprofen,Analgesic,Inhaler,44,Sun Pharma
+148,Metformin,Antidiabetic,Tablet,13,Lupin
+149,Domperidone,Anticancer,Suspension,14,Sun Pharma
+150,Sertraline,Antiviral,Injection,21,Alkem Laboratories
+151,Empagliflozin,Anti-inflammatory,Inhaler,36,Mankind Pharm
+152,Cefixime,Antiviral,Suspension,6,Cipla
+153,Sitagliptin,Anticancer,Ointment,63,Glenmark
+154,Atorvastatin,Antiviral,Inhaler,59,Cipla
+155,Amlodipine,Cardiovascular,Cream,45,Mankind Pharm
+156,Gabapentin,Cardiovascular,Ointment,54,Abbott
+157,Glimepiride,Antidiabetic,Injection,42,Mankind Pharm
+158,Glimepiride,Cardiovascular,Injection,19,Alkem Laboratories
+159,Sertraline,Antibiotic,Ointment,98,Lupin
+160,Sertraline,Respiratory,Inhaler,82,Mankind Pharm
+161,Amlodipine,Antibiotic,Injection,56,Abbott
+162,Diclofenac,Anti-inflammatory,Syrup,48,Torrent Pharma
+163,Sitagliptin,Analgesic,Injection,91,Sun Pharma
+164,Ibuprofen,Anticancer,Tablet,100,Zydus
+165,Aceclofenac,Respiratory,Ointment,12,Dr Reddy's
+166,Metformin,Antidiabetic,Inhaler,70,Abbott
+167,Azithromycin,Respiratory,Syrup,34,Torrent Pharma
+168,Salbutamol,Anticancer,Cream,61,Abbott
+169,Metformin,Antidiabetic,Suspension,75,Zydus
+170,Metformin,Antidiabetic,Inhaler,48,Abbott
+171,Sertraline,Gastrointestinal,Cream,83,Zydus
+172,Metformin,Respiratory,Suspension,28,Mankind Pharm
+173,Amlodipine,Cardiovascular,Capsule,65,Cipla
+174,Acyclovir,Antiviral,Syrup,98,Lupin
+175,Montelukast,Antiviral,Injection,40,Glenmark
+176,Atorvastatin,Antibiotic,Tablet,57,Lupin
+177,Montelukast,Antibiotic,Suspension,9,Zydus
+178,Pregabalin,Respiratory,Suspension,15,Abbott
+179,Salbutamol,Analgesic,Ointment,63,Zydus
+180,Azithromycin,Antibiotic,Cream,10,Torrent Pharma
+181,Pregabalin,Antidiabetic,Injection,69,Torrent Pharma
+182,Sitagliptin,Antidiabetic,Ointment,35,Torrent Pharma
+183,Telmisartan,Gastrointestinal,Cream,9,Torrent Pharma
+184,Doxycycline,Antibiotic,Tablet,6,Abbott
+185,Metformin,Gastrointestinal,Inhaler,32,Sun Pharma
+186,Ibuprofen,Respiratory,Inhaler,10,Glenmark
+187,Amlodipine,Anti-inflammatory,Capsule,41,Sun Pharma
+188,Atorvastatin,Antibiotic,Inhaler,56,Abbott
+189,Metformin,Antidiabetic,Tablet,10,Glenmark
+190,Fluoxetine,Respiratory,Suspension,33,Glenmark
+191,Budesonide,Antiviral,Syrup,4,Dr Reddy's
+192,Losartan,Cardiovascular,Tablet,93,Mankind Pharm
+193,Dapagliflozin,Cardiovascular,Capsule,21,Sun Pharma
+194,Atorvastatin,Analgesic,Capsule,17,Alkem Laboratories
+195,Rosuvastatin,Gastrointestinal,Syrup,63,Zydus
+196,Glimepiride,Antibiotic,Suspension,91,Dr Reddy's
+197,Amlodipine,Antiviral,Syrup,12,Sun Pharma
+198,Paracetamol,Respiratory,Inhaler,64,Lupin
+199,Empagliflozin,Antidiabetic,Capsule,64,Alkem Laboratories
+200,Dapagliflozin,Antibiotic,Capsule,13,Alkem Laboratories
+201,Escitalopram,Antibiotic,Syrup,90,Torrent Pharma
+202,Gabapentin,Antibiotic,Syrup,6,Dr Reddy's
+203,Acyclovir,CNS,Suspension,15,Abbott
+204,Metformin,Antibiotic,Syrup,94,Torrent Pharma
+205,Montelukast,Antibiotic,Inhaler,64,Lupin
+206,Atorvastatin,Gastrointestinal,Injection,74,Abbott
+207,Azithromycin,Antidiabetic,Suspension,46,Abbott
+208,Azithromycin,Respiratory,Tablet,46,Glenmark
+209,Acyclovir,Gastrointestinal,Capsule,89,Glenmark
+210,Glimepiride,Anticancer,Cream,67,Cipla
+211,Pantoprazole,Antiviral,Capsule,14,Abbott
+212,Metformin,Anti-inflammatory,Cream,1,Glenmark
+213,Montelukast,Antiviral,Ointment,33,Torrent Pharma
+214,Paracetamol,Anti-inflammatory,Suspension,53,Torrent Pharma
+215,Montelukast,Antiviral,Tablet,97,Lupin
+216,Amoxicillin,CNS,Capsule,73,Cipla
+217,Salbutamol,Anticancer,Cream,86,Cipla
+218,Fluoxetine,Antidiabetic,Inhaler,36,Cipla
+219,Diclofenac,Anticancer,Cream,68,Torrent Pharma
+220,Telmisartan,Antiviral,Inhaler,4,Glenmark
+221,Budesonide,Antidiabetic,Suspension,17,Abbott
+222,Metformin,Antidiabetic,Inhaler,54,Dr Reddy's
+223,Escitalopram,Anti-inflammatory,Inhaler,21,Dr Reddy's
+224,Diclofenac,Cardiovascular,Ointment,61,Sun Pharma
+225,Gabapentin,CNS,Ointment,52,Torrent Pharma
+226,Glimepiride,Respiratory,Syrup,18,Alkem Laboratories
+227,Pantoprazole,Cardiovascular,Suspension,4,Cipla
+228,Sertraline,Antidiabetic,Tablet,23,Glenmark
+229,Rabeprazole,Antiviral,Ointment,81,Glenmark
+230,Doxycycline,Cardiovascular,Cream,68,Abbott
+231,Gabapentin,Antidiabetic,Cream,19,Torrent Pharma
+232,Sitagliptin,Analgesic,Injection,56,Zydus
+233,Salbutamol,Gastrointestinal,Capsule,7,Cipla
+234,Montelukast,Antibiotic,Injection,97,Zydus
+235,Diclofenac,Antibiotic,Ointment,58,Alkem Laboratories
+236,Montelukast,CNS,Inhaler,92,Cipla
+237,Dapagliflozin,Cardiovascular,Tablet,8,Dr Reddy's
+238,Azithromycin,Antibiotic,Syrup,92,Mankind Pharm
+239,Budesonide,Cardiovascular,Tablet,89,Zydus
+240,Acyclovir,Anticancer,Suspension,6,Zydus
+241,Salbutamol,Cardiovascular,Capsule,97,Abbott
+242,Pregabalin,Analgesic,Capsule,50,Mankind Pharm
+243,Aceclofenac,Anticancer,Capsule,39,Alkem Laboratories
+244,Sitagliptin,Antiviral,Syrup,37,Cipla
+245,Glimepiride,Gastrointestinal,Capsule,54,Alkem Laboratories
+246,Diclofenac,Anti-inflammatory,Suspension,16,Glenmark
+247,Pantoprazole,Anticancer,Tablet,63,Torrent Pharma
+248,Rosuvastatin,CNS,Tablet,34,Zydus
+249,Doxycycline,Cardiovascular,Capsule,33,Cipla
+250,Amoxicillin,Antiviral,Inhaler,34,Torrent Pharma
+251,Aceclofenac,Antidiabetic,Inhaler,40,Glenmark
+252,Escitalopram,CNS,Syrup,19,Glenmark
+253,Aceclofenac,Gastrointestinal,Cream,30,Abbott
+254,Budesonide,Analgesic,Syrup,40,Lupin
+255,Fluoxetine,Analgesic,Tablet,55,Torrent Pharma
+256,Cefixime,Cardiovascular,Capsule,94,Lupin
+257,Aceclofenac,Antidiabetic,Capsule,70,Glenmark
+258,Cefixime,Anticancer,Ointment,28,Torrent Pharma
+259,Pantoprazole,Cardiovascular,Ointment,36,Dr Reddy's
+260,Azithromycin,Antiviral,Tablet,98,Cipla
+261,Dapagliflozin,Respiratory,Capsule,89,Lupin
+262,Metformin,Antibiotic,Injection,60,Alkem Laboratories
+263,Cefixime,Analgesic,Capsule,1,Mankind Pharm
+264,Azithromycin,Antibiotic,Capsule,60,Lupin
+265,Gabapentin,CNS,Capsule,54,Abbott
+266,Sitagliptin,Antiviral,Syrup,1,Torrent Pharma
+267,Azithromycin,Anticancer,Inhaler,62,Dr Reddy's
+268,Amoxicillin,Gastrointestinal,Capsule,62,Abbott
+269,Amoxicillin,Anti-inflammatory,Capsule,8,Sun Pharma
+270,Montelukast,Gastrointestinal,Inhaler,64,Alkem Laboratories
+271,Atorvastatin,Analgesic,Suspension,45,Cipla
+272,Gabapentin,Analgesic,Suspension,50,Lupin
+273,Gabapentin,Antibiotic,Inhaler,39,Zydus
+274,Sitagliptin,Anticancer,Inhaler,80,Lupin
+275,Metformin,Antidiabetic,Tablet,78,Glenmark
+276,Doxycycline,Antiviral,Suspension,34,Alkem Laboratories
+277,Acyclovir,Anticancer,Tablet,66,Mankind Pharm
+278,Salbutamol,CNS,Inhaler,55,Torrent Pharma
+279,Rabeprazole,Respiratory,Inhaler,13,Mankind Pharm
+280,Sertraline,CNS,Cream,74,Zydus
+281,Pregabalin,Antiviral,Cream,62,Cipla
+282,Azithromycin,Antibiotic,Capsule,91,Abbott
+283,Rabeprazole,Anticancer,Suspension,97,Dr Reddy's
+284,Domperidone,Respiratory,Tablet,13,Mankind Pharm
+285,Amoxicillin,Antibiotic,Injection,31,Alkem Laboratories
+286,Diclofenac,Gastrointestinal,Ointment,23,Cipla
+287,Metformin,Anticancer,Suspension,84,Cipla
+288,Rabeprazole,Analgesic,Ointment,97,Dr Reddy's
+289,Empagliflozin,Antiviral,Cream,92,Glenmark
+290,Aceclofenac,Gastrointestinal,Injection,41,Zydus
+291,Rosuvastatin,Respiratory,Suspension,8,Lupin
+292,Ibuprofen,Analgesic,Syrup,52,Lupin
+293,Glimepiride,Antidiabetic,Tablet,19,Alkem Laboratories
+294,Paracetamol,Antibiotic,Tablet,29,Abbott
+295,Rabeprazole,Gastrointestinal,Capsule,73,Cipla
+296,Aceclofenac,Antiviral,Inhaler,53,Alkem Laboratories
+297,Salbutamol,Cardiovascular,Injection,94,Abbott
+298,Salbutamol,Gastrointestinal,Capsule,4,Abbott
+299,Rosuvastatin,Antiviral,Injection,96,Alkem Laboratories
+300,Montelukast,Anti-inflammatory,Cream,76,Cipla
+301,Telmisartan,Analgesic,Syrup,61,Lupin
+302,Sitagliptin,Antiviral,Cream,28,Alkem Laboratories
+303,Paracetamol,Analgesic,Injection,49,Torrent Pharma
+304,Rosuvastatin,Cardiovascular,Ointment,8,Glenmark
+305,Pantoprazole,Antibiotic,Syrup,43,Dr Reddy's
+306,Budesonide,Anti-inflammatory,Capsule,67,Abbott
+307,Budesonide,Anticancer,Capsule,67,Cipla
+308,Montelukast,Cardiovascular,Syrup,23,Alkem Laboratories
+309,Sitagliptin,Anticancer,Tablet,98,Lupin
+310,Diclofenac,Anticancer,Capsule,12,Glenmark
+311,Acyclovir,Anti-inflammatory,Capsule,68,Mankind Pharm
+312,Montelukast,Antidiabetic,Injection,97,Zydus
+313,Domperidone,Antibiotic,Suspension,16,Glenmark
+314,Budesonide,Gastrointestinal,Suspension,95,Dr Reddy's
+315,Ibuprofen,Antibiotic,Ointment,9,Alkem Laboratories
+316,Losartan,CNS,Tablet,6,Cipla
+317,Rabeprazole,Gastrointestinal,Capsule,71,Mankind Pharm
+318,Pregabalin,Cardiovascular,Tablet,4,Glenmark
+319,Empagliflozin,CNS,Ointment,81,Glenmark
+320,Gabapentin,CNS,Ointment,1,Lupin
+321,Pregabalin,Antiviral,Tablet,18,Alkem Laboratories
+322,Fluoxetine,Anticancer,Ointment,77,Alkem Laboratories
+323,Doxycycline,Anticancer,Tablet,85,Abbott
+324,Gabapentin,Anti-inflammatory,Suspension,54,Zydus
+325,Budesonide,Antidiabetic,Tablet,18,Alkem Laboratories
+326,Diclofenac,Cardiovascular,Injection,70,Mankind Pharm
+327,Ibuprofen,Respiratory,Capsule,42,Alkem Laboratories
+328,Ibuprofen,Anticancer,Cream,89,Dr Reddy's
+329,Paracetamol,Antidiabetic,Capsule,51,Glenmark
+330,Aceclofenac,Gastrointestinal,Cream,68,Cipla
+331,Empagliflozin,Antibiotic,Capsule,49,Dr Reddy's
+332,Fluoxetine,Analgesic,Cream,63,Glenmark
+333,Gabapentin,CNS,Suspension,22,Sun Pharma
+334,Fluoxetine,Antiviral,Cream,54,Abbott
+335,Telmisartan,Analgesic,Syrup,50,Zydus
+336,Sitagliptin,Anticancer,Suspension,90,Torrent Pharma
+337,Ibuprofen,Analgesic,Capsule,82,Cipla
+338,Empagliflozin,Gastrointestinal,Ointment,50,Abbott
+339,Amoxicillin,Anti-inflammatory,Ointment,64,Glenmark
+340,Telmisartan,CNS,Suspension,8,Abbott
+341,Doxycycline,Antibiotic,Ointment,20,Alkem Laboratories
+342,Telmisartan,Respiratory,Cream,100,Abbott
+343,Cefixime,Gastrointestinal,Ointment,50,Glenmark
+344,Metformin,CNS,Ointment,91,Cipla
+345,Ibuprofen,Cardiovascular,Inhaler,47,Torrent Pharma
+346,Rosuvastatin,Antiviral,Ointment,91,Mankind Pharm
+347,Metformin,Gastrointestinal,Injection,81,Cipla
+348,Telmisartan,Antiviral,Syrup,47,Torrent Pharma
+349,Ibuprofen,Anticancer,Capsule,68,Alkem Laboratories
+350,Losartan,Antiviral,Syrup,8,Abbott
+351,Gabapentin,Anti-inflammatory,Injection,37,Glenmark
+352,Cefixime,Respiratory,Tablet,2,Torrent Pharma
+353,Domperidone,Gastrointestinal,Cream,82,Mankind Pharm
+354,Empagliflozin,Antiviral,Capsule,92,Lupin
+355,Rabeprazole,CNS,Ointment,30,Sun Pharma
+356,Gabapentin,Cardiovascular,Cream,42,Cipla
+357,Cefixime,Anti-inflammatory,Injection,21,Mankind Pharm
+358,Fluoxetine,Anticancer,Capsule,64,Torrent Pharma
+359,Losartan,Respiratory,Inhaler,99,Glenmark
+360,Cefixime,Gastrointestinal,Inhaler,75,Zydus
+361,Montelukast,Cardiovascular,Tablet,39,Cipla
+362,Dapagliflozin,Cardiovascular,Capsule,32,Dr Reddy's
+363,Sitagliptin,Antidiabetic,Injection,91,Glenmark
+364,Empagliflozin,Respiratory,Capsule,30,Sun Pharma
+365,Amlodipine,Respiratory,Inhaler,43,Abbott
+366,Cefixime,Analgesic,Suspension,89,Glenmark
+367,Escitalopram,Analgesic,Inhaler,7,Zydus
+368,Ibuprofen,Gastrointestinal,Tablet,84,Abbott
+369,Ibuprofen,Antidiabetic,Suspension,83,Cipla
+370,Ibuprofen,Antiviral,Syrup,55,Glenmark
+371,Rabeprazole,Antibiotic,Ointment,70,Lupin
+372,Cefixime,Gastrointestinal,Cream,35,Mankind Pharm
+373,Dapagliflozin,Antibiotic,Syrup,83,Mankind Pharm
+374,Acyclovir,Antibiotic,Tablet,71,Glenmark
+375,Rabeprazole,Antiviral,Suspension,49,Alkem Laboratories
+376,Azithromycin,Anticancer,Tablet,66,Zydus
+377,Fluoxetine,Anticancer,Ointment,38,Zydus
+378,Metformin,Antiviral,Injection,58,Mankind Pharm
+379,Pregabalin,Anti-inflammatory,Ointment,96,Dr Reddy's
+380,Salbutamol,Anticancer,Suspension,76,Dr Reddy's
+381,Telmisartan,Analgesic,Syrup,91,Cipla
+382,Pantoprazole,Cardiovascular,Inhaler,50,Abbott
+383,Amoxicillin,Cardiovascular,Cream,85,Mankind Pharm
+384,Rabeprazole,Respiratory,Inhaler,20,Torrent Pharma
+385,Amoxicillin,CNS,Suspension,83,Torrent Pharma
+386,Amlodipine,Cardiovascular,Inhaler,75,Zydus
+387,Azithromycin,Respiratory,Syrup,82,Zydus
+388,Telmisartan,Respiratory,Syrup,56,Cipla
+389,Escitalopram,Anticancer,Injection,40,Zydus
+390,Diclofenac,Anti-inflammatory,Ointment,74,Zydus
+391,Montelukast,Antiviral,Suspension,71,Glenmark
+392,Azithromycin,Anticancer,Capsule,22,Zydus
+393,Escitalopram,CNS,Inhaler,5,Dr Reddy's
+394,Doxycycline,Anticancer,Capsule,77,Mankind Pharm
+395,Ibuprofen,Anti-inflammatory,Inhaler,27,Glenmark
+396,Aceclofenac,Anti-inflammatory,Cream,45,Alkem Laboratories
+397,Pregabalin,CNS,Capsule,82,Sun Pharma
+398,Fluoxetine,Cardiovascular,Ointment,26,Alkem Laboratories
+399,Ibuprofen,Antiviral,Capsule,90,Abbott
+400,Gabapentin,Antidiabetic,Suspension,60,Abbott
+401,Aceclofenac,Anti-inflammatory,Cream,97,Torrent Pharma
+402,Sitagliptin,Gastrointestinal,Syrup,82,Alkem Laboratories
+403,Acyclovir,Respiratory,Inhaler,60,Torrent Pharma
+404,Empagliflozin,Antidiabetic,Syrup,7,Torrent Pharma
+405,Amoxicillin,Anti-inflammatory,Cream,30,Lupin
+406,Cefixime,Analgesic,Cream,4,Dr Reddy's
+407,Dapagliflozin,Cardiovascular,Inhaler,50,Zydus
+408,Rosuvastatin,Antiviral,Inhaler,64,Abbott
+409,Doxycycline,Antibiotic,Cream,55,Cipla
+410,Rosuvastatin,Gastrointestinal,Ointment,17,Glenmark
+411,Rabeprazole,Antidiabetic,Syrup,74,Mankind Pharm
+412,Metformin,Analgesic,Inhaler,9,Alkem Laboratories
+413,Gabapentin,Antidiabetic,Cream,94,Lupin
+414,Paracetamol,CNS,Tablet,3,Mankind Pharm
+415,Amoxicillin,Antiviral,Suspension,90,Lupin
+416,Diclofenac,CNS,Syrup,56,Mankind Pharm
+417,Atorvastatin,Gastrointestinal,Cream,72,Lupin
+418,Pregabalin,Respiratory,Tablet,52,Torrent Pharma
+419,Sertraline,CNS,Cream,21,Glenmark
+420,Montelukast,Respiratory,Tablet,6,Dr Reddy's
+421,Telmisartan,Respiratory,Ointment,59,Torrent Pharma
+422,Pantoprazole,Cardiovascular,Cream,62,Abbott
+423,Doxycycline,Antibiotic,Syrup,90,Abbott
+424,Fluoxetine,Anti-inflammatory,Tablet,99,Cipla
+425,Budesonide,Anticancer,Suspension,17,Abbott
+426,Empagliflozin,Analgesic,Cream,82,Zydus
+427,Rosuvastatin,Cardiovascular,Suspension,96,Cipla
+428,Glimepiride,Anticancer,Capsule,75,Sun Pharma
+429,Cefixime,Analgesic,Tablet,23,Sun Pharma
+430,Rabeprazole,Antibiotic,Injection,36,Lupin
+431,Azithromycin,Gastrointestinal,Capsule,16,Cipla
+432,Dapagliflozin,Anti-inflammatory,Syrup,75,Abbott
+433,Sitagliptin,Respiratory,Injection,49,Mankind Pharm
+434,Empagliflozin,Analgesic,Ointment,70,Sun Pharma
+435,Doxycycline,Antibiotic,Cream,51,Dr Reddy's
+436,Empagliflozin,Analgesic,Suspension,39,Lupin
+437,Empagliflozin,Respiratory,Syrup,16,Abbott
+438,Metformin,Antidiabetic,Syrup,13,Glenmark
+439,Losartan,Anti-inflammatory,Capsule,45,Mankind Pharm
+440,Cefixime,Analgesic,Inhaler,88,Zydus
+441,Fluoxetine,Gastrointestinal,Ointment,14,Torrent Pharma
+442,Montelukast,Anti-inflammatory,Tablet,37,Mankind Pharm
+443,Rosuvastatin,Anti-inflammatory,Syrup,18,Cipla
+444,Paracetamol,Gastrointestinal,Suspension,13,Sun Pharma
+445,Metformin,Antiviral,Suspension,36,Dr Reddy's
+446,Gabapentin,Antidiabetic,Syrup,88,Torrent Pharma
+447,Diclofenac,Gastrointestinal,Suspension,28,Abbott
+448,Rabeprazole,Analgesic,Injection,1,Sun Pharma
+449,Acyclovir,Respiratory,Inhaler,38,Dr Reddy's
+450,Cefixime,Cardiovascular,Inhaler,76,Cipla
+451,Sertraline,Gastrointestinal,Suspension,62,Cipla
+452,Amoxicillin,Antidiabetic,Syrup,39,Torrent Pharma
+453,Empagliflozin,Anti-inflammatory,Ointment,51,Sun Pharma
+454,Gabapentin,Analgesic,Ointment,76,Lupin
+455,Atorvastatin,Antidiabetic,Suspension,4,Sun Pharma
+456,Pregabalin,Antibiotic,Cream,85,Cipla
+457,Losartan,Respiratory,Injection,34,Mankind Pharm
+458,Fluoxetine,Antibiotic,Inhaler,79,Zydus
+459,Diclofenac,Respiratory,Cream,15,Zydus
+460,Doxycycline,Antibiotic,Cream,37,Glenmark
+461,Gabapentin,Anti-inflammatory,Ointment,50,Zydus
+462,Cefixime,Antiviral,Capsule,45,Alkem Laboratories
+463,Domperidone,CNS,Ointment,40,Abbott
+464,Gabapentin,Cardiovascular,Tablet,43,Cipla
+465,Budesonide,Anti-inflammatory,Tablet,69,Torrent Pharma
+466,Domperidone,Antibiotic,Capsule,89,Lupin
+467,Salbutamol,Antiviral,Capsule,47,Mankind Pharm
+468,Diclofenac,Antibiotic,Inhaler,30,Glenmark
+469,Domperidone,Anti-inflammatory,Cream,14,Mankind Pharm
+470,Atorvastatin,Gastrointestinal,Injection,25,Mankind Pharm
+471,Rosuvastatin,Analgesic,Ointment,34,Zydus
+472,Fluoxetine,Gastrointestinal,Tablet,26,Torrent Pharma
+473,Azithromycin,Anti-inflammatory,Capsule,7,Lupin
+474,Budesonide,Antiviral,Injection,9,Dr Reddy's
+475,Losartan,Gastrointestinal,Ointment,63,Dr Reddy's
+476,Amoxicillin,Cardiovascular,Cream,80,Mankind Pharm
+477,Glimepiride,Antidiabetic,Ointment,50,Torrent Pharma
+478,Salbutamol,Analgesic,Tablet,30,Zydus
+479,Azithromycin,Antidiabetic,Syrup,20,Cipla
+480,Salbutamol,Respiratory,Ointment,2,Dr Reddy's
+481,Paracetamol,Antidiabetic,Cream,87,Sun Pharma
+482,Rosuvastatin,Cardiovascular,Capsule,77,Mankind Pharm
+483,Montelukast,Anti-inflammatory,Tablet,47,Cipla
+484,Glimepiride,Respiratory,Injection,60,Glenmark
+485,Domperidone,Gastrointestinal,Tablet,83,Dr Reddy's
+486,Dapagliflozin,Cardiovascular,Tablet,68,Sun Pharma
+487,Doxycycline,Antibiotic,Capsule,54,Cipla
+488,Cefixime,Gastrointestinal,Suspension,56,Dr Reddy's
+489,Domperidone,Antibiotic,Injection,93,Mankind Pharm
+490,Doxycycline,Cardiovascular,Suspension,25,Sun Pharma
+491,Ibuprofen,Analgesic,Inhaler,25,Lupin
+492,Aceclofenac,Antidiabetic,Syrup,36,Alkem Laboratories
+493,Azithromycin,Antibiotic,Inhaler,95,Glenmark
+494,Atorvastatin,Anti-inflammatory,Tablet,29,Torrent Pharma
+495,Dapagliflozin,Anticancer,Tablet,76,Torrent Pharma
+496,Acyclovir,Antibiotic,Capsule,70,Mankind Pharm
+497,Rosuvastatin,Cardiovascular,Suspension,19,Torrent Pharma
+498,Empagliflozin,Analgesic,Suspension,81,Glenmark
+499,Azithromycin,Respiratory,Capsule,25,Dr Reddy's
+500,Fluoxetine,Analgesic,Capsule,95,Alkem Laboratories
+501,Cefixime,Cardiovascular,Inhaler,1,Cipla
+502,Telmisartan,Antiviral,Capsule,68,Cipla
+503,Doxycycline,CNS,Suspension,46,Lupin
+504,Domperidone,Anti-inflammatory,Injection,36,Zydus
+505,Rabeprazole,Gastrointestinal,Injection,53,Cipla
+506,Fluoxetine,Anti-inflammatory,Tablet,73,Abbott
+507,Fluoxetine,Antiviral,Injection,15,Zydus
+508,Sitagliptin,Respiratory,Suspension,52,Sun Pharma
+509,Cefixime,Antibiotic,Suspension,75,Dr Reddy's
+510,Montelukast,Cardiovascular,Suspension,80,Alkem Laboratories
+511,Sitagliptin,Cardiovascular,Ointment,79,Abbott
+512,Ibuprofen,Respiratory,Syrup,97,Torrent Pharma
+513,Amoxicillin,CNS,Cream,78,Alkem Laboratories
+514,Pregabalin,Cardiovascular,Capsule,53,Dr Reddy's
+515,Metformin,Antibiotic,Injection,94,Lupin
+516,Amoxicillin,Respiratory,Injection,92,Glenmark
+517,Domperidone,Gastrointestinal,Syrup,90,Cipla
+518,Empagliflozin,CNS,Injection,81,Cipla
+519,Losartan,Antibiotic,Capsule,1,Sun Pharma
+520,Montelukast,Anticancer,Inhaler,58,Zydus
+521,Montelukast,Antibiotic,Capsule,27,Dr Reddy's
+522,Aceclofenac,CNS,Injection,66,Glenmark
+523,Empagliflozin,Antidiabetic,Ointment,69,Zydus
+524,Sertraline,Antiviral,Capsule,9,Cipla
+525,Ibuprofen,Antibiotic,Inhaler,73,Sun Pharma
+526,Telmisartan,Anti-inflammatory,Cream,28,Cipla
+527,Azithromycin,Antiviral,Suspension,27,Sun Pharma
+528,Dapagliflozin,Cardiovascular,Inhaler,30,Zydus
+529,Ibuprofen,Cardiovascular,Tablet,55,Torrent Pharma
+530,Budesonide,Antiviral,Ointment,8,Glenmark
+531,Sertraline,Antidiabetic,Injection,56,Alkem Laboratories
+532,Glimepiride,CNS,Inhaler,61,Glenmark
+533,Montelukast,Anti-inflammatory,Suspension,25,Alkem Laboratories
+534,Ibuprofen,Antibiotic,Suspension,15,Zydus
+535,Empagliflozin,Anti-inflammatory,Capsule,22,Sun Pharma
+536,Doxycycline,CNS,Injection,15,Zydus
+537,Fluoxetine,Respiratory,Ointment,72,Torrent Pharma
+538,Domperidone,CNS,Inhaler,92,Torrent Pharma
+539,Budesonide,Gastrointestinal,Syrup,87,Alkem Laboratories
+540,Doxycycline,Respiratory,Capsule,91,Sun Pharma
+541,Aceclofenac,Anti-inflammatory,Capsule,20,Cipla
+542,Cefixime,Analgesic,Tablet,65,Zydus
+543,Pregabalin,Respiratory,Tablet,79,Lupin
+544,Pantoprazole,Gastrointestinal,Ointment,71,Dr Reddy's
+545,Acyclovir,Antibiotic,Syrup,83,Mankind Pharm
+546,Losartan,Respiratory,Syrup,61,Glenmark
+547,Diclofenac,Antiviral,Inhaler,73,Mankind Pharm
+548,Telmisartan,Anticancer,Ointment,65,Torrent Pharma
+549,Escitalopram,Cardiovascular,Suspension,60,Zydus
+550,Salbutamol,Anticancer,Capsule,73,Abbott
+551,Budesonide,Antidiabetic,Ointment,67,Abbott
+552,Fluoxetine,Antiviral,Injection,89,Dr Reddy's
+553,Ibuprofen,Analgesic,Syrup,74,Lupin
+554,Losartan,Analgesic,Injection,46,Abbott
+555,Diclofenac,CNS,Cream,81,Dr Reddy's
+556,Escitalopram,Analgesic,Tablet,50,Alkem Laboratories
+557,Dapagliflozin,Respiratory,Suspension,35,Alkem Laboratories
+558,Sitagliptin,Analgesic,Suspension,95,Abbott
+559,Montelukast,Antibiotic,Suspension,37,Lupin
+560,Gabapentin,Cardiovascular,Injection,11,Mankind Pharm
+561,Domperidone,Antibiotic,Inhaler,89,Torrent Pharma
+562,Acyclovir,Gastrointestinal,Suspension,59,Dr Reddy's
+563,Losartan,Antibiotic,Tablet,75,Mankind Pharm
+564,Atorvastatin,Antiviral,Tablet,52,Dr Reddy's
+565,Glimepiride,Anti-inflammatory,Cream,73,Lupin
+566,Metformin,Anti-inflammatory,Inhaler,74,Torrent Pharma
+567,Budesonide,Gastrointestinal,Capsule,61,Glenmark
+568,Dapagliflozin,Antiviral,Inhaler,64,Mankind Pharm
+569,Pregabalin,Antibiotic,Inhaler,33,Dr Reddy's
+570,Fluoxetine,Gastrointestinal,Cream,87,Glenmark
+571,Atorvastatin,Antibiotic,Capsule,43,Abbott
+572,Budesonide,Anticancer,Suspension,1,Alkem Laboratories
+573,Pantoprazole,Antidiabetic,Injection,70,Abbott
+574,Montelukast,Cardiovascular,Capsule,19,Alkem Laboratories
+575,Telmisartan,Antiviral,Tablet,20,Torrent Pharma
+576,Amlodipine,Respiratory,Cream,8,Glenmark
+577,Glimepiride,Gastrointestinal,Suspension,40,Alkem Laboratories
+578,Cefixime,Cardiovascular,Inhaler,50,Torrent Pharma
+579,Salbutamol,Antibiotic,Cream,16,Zydus
+580,Fluoxetine,Analgesic,Inhaler,100,Zydus
+581,Metformin,Anti-inflammatory,Syrup,31,Glenmark
+582,Gabapentin,Gastrointestinal,Injection,30,Cipla
+583,Sertraline,Respiratory,Suspension,32,Sun Pharma
+584,Montelukast,Gastrointestinal,Ointment,22,Torrent Pharma
+585,Sertraline,Antiviral,Inhaler,72,Cipla
+586,Cefixime,Antiviral,Tablet,9,Sun Pharma
+587,Telmisartan,Antidiabetic,Inhaler,85,Dr Reddy's
+588,Empagliflozin,Antidiabetic,Syrup,49,Abbott
+589,Salbutamol,Respiratory,Inhaler,59,Cipla
+590,Gabapentin,Anti-inflammatory,Cream,99,Lupin
+591,Acyclovir,Cardiovascular,Capsule,26,Torrent Pharma
+592,Fluoxetine,Antiviral,Ointment,54,Abbott
+593,Domperidone,Antidiabetic,Inhaler,1,Cipla
+594,Metformin,Anticancer,Ointment,22,Zydus
+595,Cefixime,Gastrointestinal,Inhaler,7,Cipla
+596,Budesonide,Gastrointestinal,Injection,33,Mankind Pharm
+597,Sitagliptin,Anti-inflammatory,Syrup,57,Zydus
+598,Glimepiride,Antiviral,Ointment,15,Alkem Laboratories
+599,Amoxicillin,Respiratory,Injection,96,Glenmark
+600,Glimepiride,Cardiovascular,Injection,33,Torrent Pharma
+601,Doxycycline,Respiratory,Suspension,40,Abbott
+602,Atorvastatin,Antibiotic,Suspension,52,Cipla
+603,Losartan,Cardiovascular,Tablet,62,Lupin
+604,Paracetamol,Gastrointestinal,Suspension,67,Dr Reddy's
+605,Acyclovir,Gastrointestinal,Syrup,46,Sun Pharma
+606,Rabeprazole,Antidiabetic,Injection,96,Torrent Pharma
+607,Azithromycin,Cardiovascular,Inhaler,12,Abbott
+608,Acyclovir,Anticancer,Tablet,25,Lupin
+609,Fluoxetine,Antiviral,Ointment,74,Abbott
+610,Aceclofenac,Antibiotic,Ointment,65,Glenmark
+611,Fluoxetine,Respiratory,Ointment,61,Dr Reddy's
+612,Aceclofenac,Antibiotic,Syrup,73,Mankind Pharm
+613,Gabapentin,Anti-inflammatory,Capsule,51,Abbott
+614,Cefixime,Antidiabetic,Injection,88,Cipla
+615,Budesonide,Antibiotic,Tablet,60,Mankind Pharm
+616,Amoxicillin,Cardiovascular,Capsule,60,Lupin
+617,Budesonide,Gastrointestinal,Capsule,52,Abbott
+618,Amoxicillin,CNS,Suspension,63,Sun Pharma
+619,Cefixime,Anti-inflammatory,Ointment,8,Abbott
+620,Diclofenac,CNS,Inhaler,46,Glenmark
+621,Sitagliptin,Antidiabetic,Suspension,35,Alkem Laboratories
+622,Telmisartan,Antiviral,Inhaler,6,Lupin
+623,Losartan,Anti-inflammatory,Ointment,99,Torrent Pharma
+624,Aceclofenac,Antiviral,Tablet,85,Sun Pharma
+625,Pregabalin,Gastrointestinal,Injection,80,Lupin
+626,Cefixime,Anti-inflammatory,Syrup,48,Lupin
+627,Amoxicillin,Gastrointestinal,Tablet,26,Glenmark
+628,Sitagliptin,Analgesic,Inhaler,22,Dr Reddy's
+629,Fluoxetine,Anticancer,Syrup,5,Zydus
+630,Amoxicillin,Antidiabetic,Syrup,37,Lupin
+631,Acyclovir,Antidiabetic,Injection,41,Mankind Pharm
+632,Amoxicillin,Gastrointestinal,Tablet,12,Torrent Pharma
+633,Telmisartan,Respiratory,Injection,75,Alkem Laboratories
+634,Atorvastatin,Gastrointestinal,Syrup,4,Mankind Pharm
+635,Sertraline,Cardiovascular,Inhaler,9,Cipla
+636,Dapagliflozin,Antidiabetic,Cream,45,Torrent Pharma
+637,Paracetamol,Antidiabetic,Cream,86,Torrent Pharma
+638,Domperidone,Cardiovascular,Capsule,7,Alkem Laboratories
+639,Losartan,Cardiovascular,Injection,39,Torrent Pharma
+640,Diclofenac,Antidiabetic,Injection,96,Dr Reddy's
+641,Rosuvastatin,Anticancer,Tablet,49,Sun Pharma
+642,Amlodipine,Anticancer,Cream,17,Dr Reddy's
+643,Losartan,Cardiovascular,Inhaler,28,Abbott
+644,Glimepiride,Anticancer,Capsule,7,Torrent Pharma
+645,Atorvastatin,Antiviral,Inhaler,63,Glenmark
+646,Paracetamol,Gastrointestinal,Cream,82,Dr Reddy's
+647,Doxycycline,Antidiabetic,Capsule,64,Sun Pharma
+648,Glimepiride,Antibiotic,Syrup,26,Cipla
+649,Losartan,Antidiabetic,Syrup,63,Alkem Laboratories
+650,Fluoxetine,Analgesic,Syrup,77,Glenmark
+651,Aceclofenac,Anticancer,Cream,92,Lupin
+652,Amoxicillin,Antidiabetic,Tablet,79,Zydus
+653,Fluoxetine,Respiratory,Ointment,43,Zydus
+654,Montelukast,Gastrointestinal,Ointment,16,Sun Pharma
+655,Amlodipine,CNS,Capsule,41,Zydus
+656,Telmisartan,Anti-inflammatory,Cream,5,Alkem Laboratories
+657,Domperidone,Antibiotic,Cream,87,Alkem Laboratories
+658,Escitalopram,Gastrointestinal,Suspension,73,Abbott
+659,Budesonide,Anti-inflammatory,Tablet,69,Alkem Laboratories
+660,Domperidone,Cardiovascular,Inhaler,48,Cipla
+661,Empagliflozin,CNS,Tablet,75,Glenmark
+662,Gabapentin,Antidiabetic,Injection,42,Glenmark
+663,Aceclofenac,Antiviral,Tablet,34,Torrent Pharma
+664,Doxycycline,Respiratory,Injection,23,Glenmark
+665,Budesonide,Cardiovascular,Suspension,1,Cipla
+666,Rabeprazole,Gastrointestinal,Injection,95,Sun Pharma
+667,Doxycycline,Respiratory,Cream,96,Torrent Pharma
+668,Doxycycline,Cardiovascular,Inhaler,75,Mankind Pharm
+669,Glimepiride,Antibiotic,Cream,55,Mankind Pharm
+670,Paracetamol,Cardiovascular,Capsule,13,Dr Reddy's
+671,Metformin,Anticancer,Cream,68,Abbott
+672,Gabapentin,CNS,Injection,20,Cipla
+673,Escitalopram,Anticancer,Cream,95,Alkem Laboratories
+674,Losartan,CNS,Ointment,63,Torrent Pharma
+675,Cefixime,Antibiotic,Tablet,43,Cipla
+676,Gabapentin,Respiratory,Capsule,23,Mankind Pharm
+677,Pregabalin,CNS,Cream,66,Zydus
+678,Metformin,Antidiabetic,Tablet,25,Mankind Pharm
+679,Amoxicillin,Analgesic,Syrup,75,Torrent Pharma
+680,Losartan,Antibiotic,Cream,16,Dr Reddy's
+681,Aceclofenac,Anti-inflammatory,Inhaler,69,Mankind Pharm
+682,Rabeprazole,Analgesic,Suspension,53,Torrent Pharma
+683,Glimepiride,Antidiabetic,Capsule,92,Glenmark
+684,Fluoxetine,Gastrointestinal,Cream,60,Torrent Pharma
+685,Sitagliptin,Respiratory,Ointment,95,Lupin
+686,Losartan,Analgesic,Syrup,99,Abbott
+687,Rosuvastatin,Anti-inflammatory,Inhaler,13,Alkem Laboratories
+688,Acyclovir,Antidiabetic,Capsule,38,Dr Reddy's
+689,Glimepiride,Gastrointestinal,Tablet,32,Lupin
+690,Rabeprazole,Antiviral,Inhaler,68,Abbott
+691,Salbutamol,Analgesic,Syrup,95,Zydus
+692,Azithromycin,Anti-inflammatory,Inhaler,99,Alkem Laboratories
+693,Aceclofenac,Analgesic,Ointment,10,Torrent Pharma
+694,Sitagliptin,Antiviral,Ointment,62,Cipla
+695,Empagliflozin,Anti-inflammatory,Injection,39,Dr Reddy's
+696,Glimepiride,CNS,Ointment,50,Glenmark
+697,Pregabalin,Antiviral,Suspension,32,Mankind Pharm
+698,Telmisartan,Antidiabetic,Cream,71,Mankind Pharm
+699,Metformin,Antiviral,Inhaler,20,Alkem Laboratories
+700,Doxycycline,Antidiabetic,Injection,3,Alkem Laboratories
+701,Pantoprazole,Antidiabetic,Injection,41,Cipla
+702,Amoxicillin,Antibiotic,Inhaler,33,Dr Reddy's
+703,Cefixime,Gastrointestinal,Cream,46,Lupin
+704,Empagliflozin,Antidiabetic,Suspension,14,Cipla
+705,Dapagliflozin,Antiviral,Syrup,75,Abbott
+706,Rosuvastatin,Anti-inflammatory,Suspension,33,Alkem Laboratories
+707,Azithromycin,Antidiabetic,Suspension,26,Glenmark
+708,Pregabalin,Anti-inflammatory,Inhaler,36,Zydus
+709,Montelukast,Anti-inflammatory,Cream,49,Lupin
+710,Budesonide,Anti-inflammatory,Ointment,9,Glenmark
+711,Metformin,Antidiabetic,Capsule,74,Torrent Pharma
+712,Ibuprofen,Anticancer,Ointment,12,Alkem Laboratories
+713,Rosuvastatin,Respiratory,Ointment,4,Dr Reddy's
+714,Diclofenac,Cardiovascular,Injection,26,Zydus
+715,Cefixime,Cardiovascular,Injection,4,Torrent Pharma
+716,Acyclovir,Anticancer,Injection,53,Sun Pharma
+717,Acyclovir,Respiratory,Tablet,83,Dr Reddy's
+718,Dapagliflozin,Cardiovascular,Tablet,48,Sun Pharma
+719,Dapagliflozin,Respiratory,Suspension,100,Sun Pharma
+720,Ibuprofen,Cardiovascular,Syrup,9,Glenmark
+721,Pantoprazole,Antiviral,Suspension,49,Torrent Pharma
+722,Telmisartan,CNS,Ointment,63,Mankind Pharm
+723,Montelukast,Anticancer,Syrup,40,Alkem Laboratories
+724,Cefixime,Antibiotic,Inhaler,35,Alkem Laboratories
+725,Losartan,Cardiovascular,Tablet,91,Mankind Pharm
+726,Budesonide,CNS,Capsule,28,Zydus
+727,Losartan,Anticancer,Injection,33,Alkem Laboratories
+728,Amlodipine,Antibiotic,Inhaler,89,Dr Reddy's
+729,Pantoprazole,Anti-inflammatory,Capsule,62,Dr Reddy's
+730,Acyclovir,Antibiotic,Syrup,90,Lupin
+731,Montelukast,Antibiotic,Cream,95,Zydus
+732,Cefixime,Analgesic,Injection,95,Mankind Pharm
+733,Escitalopram,Gastrointestinal,Suspension,87,Sun Pharma
+734,Acyclovir,CNS,Capsule,32,Glenmark
+735,Doxycycline,Analgesic,Suspension,64,Torrent Pharma
+736,Doxycycline,Analgesic,Cream,72,Glenmark
+737,Amlodipine,Respiratory,Suspension,75,Sun Pharma
+738,Atorvastatin,Analgesic,Tablet,61,Abbott
+739,Montelukast,Cardiovascular,Ointment,86,Alkem Laboratories
+740,Domperidone,Analgesic,Inhaler,43,Abbott
+741,Fluoxetine,Analgesic,Ointment,14,Sun Pharma
+742,Cefixime,Antiviral,Inhaler,68,Glenmark
+743,Aceclofenac,Cardiovascular,Injection,44,Cipla
+744,Fluoxetine,Analgesic,Ointment,18,Sun Pharma
+745,Paracetamol,Anticancer,Capsule,93,Glenmark
+746,Losartan,Gastrointestinal,Injection,60,Dr Reddy's
+747,Acyclovir,Antidiabetic,Cream,36,Cipla
+748,Salbutamol,Analgesic,Ointment,72,Sun Pharma
+749,Sertraline,Antidiabetic,Capsule,71,Torrent Pharma
+750,Pregabalin,CNS,Capsule,19,Lupin
+751,Fluoxetine,Antidiabetic,Suspension,30,Mankind Pharm
+752,Ibuprofen,Antidiabetic,Inhaler,99,Alkem Laboratories
+753,Empagliflozin,Anticancer,Tablet,33,Glenmark
+754,Dapagliflozin,Gastrointestinal,Capsule,82,Glenmark
+755,Doxycycline,Antidiabetic,Capsule,17,Alkem Laboratories
+756,Fluoxetine,Cardiovascular,Inhaler,37,Lupin
+757,Pregabalin,Cardiovascular,Ointment,82,Cipla
+758,Fluoxetine,Anticancer,Inhaler,95,Glenmark
+759,Glimepiride,Anti-inflammatory,Ointment,97,Cipla
+760,Paracetamol,Anticancer,Cream,58,Lupin
+761,Cefixime,Anticancer,Ointment,11,Mankind Pharm
+762,Gabapentin,Respiratory,Cream,32,Mankind Pharm
+763,Metformin,Anti-inflammatory,Syrup,66,Cipla
+764,Dapagliflozin,Respiratory,Tablet,63,Dr Reddy's
+765,Atorvastatin,Antidiabetic,Suspension,40,Zydus
+766,Glimepiride,Antidiabetic,Suspension,20,Alkem Laboratories
+767,Glimepiride,Analgesic,Inhaler,50,Cipla
+768,Sertraline,Anticancer,Ointment,93,Sun Pharma
+769,Amoxicillin,Gastrointestinal,Inhaler,35,Torrent Pharma
+770,Pantoprazole,Cardiovascular,Capsule,80,Lupin
+771,Sitagliptin,Gastrointestinal,Injection,51,Mankind Pharm
+772,Azithromycin,CNS,Capsule,8,Dr Reddy's
+773,Rosuvastatin,Anti-inflammatory,Injection,42,Dr Reddy's
+774,Sitagliptin,Anticancer,Syrup,70,Sun Pharma
+775,Amoxicillin,Antiviral,Capsule,1,Alkem Laboratories
+776,Domperidone,Antiviral,Ointment,95,Zydus
+777,Azithromycin,Anticancer,Inhaler,88,Zydus
+778,Glimepiride,Gastrointestinal,Tablet,50,Mankind Pharm
+779,Cefixime,Antidiabetic,Syrup,34,Zydus
+780,Amoxicillin,Antibiotic,Tablet,48,Alkem Laboratories
+781,Atorvastatin,Anticancer,Capsule,99,Alkem Laboratories
+782,Domperidone,Antibiotic,Capsule,18,Cipla
+783,Atorvastatin,Antidiabetic,Syrup,72,Sun Pharma
+784,Pregabalin,Analgesic,Cream,43,Dr Reddy's
+785,Metformin,Antibiotic,Suspension,9,Zydus
+786,Cefixime,Anti-inflammatory,Syrup,44,Torrent Pharma
+787,Diclofenac,Cardiovascular,Tablet,83,Cipla
+788,Sertraline,Gastrointestinal,Injection,37,Lupin
+789,Domperidone,Anticancer,Cream,31,Glenmark
+790,Aceclofenac,Respiratory,Cream,67,Dr Reddy's
+791,Telmisartan,Cardiovascular,Syrup,32,Alkem Laboratories
+792,Domperidone,Anticancer,Suspension,93,Dr Reddy's
+793,Rabeprazole,Anticancer,Inhaler,42,Torrent Pharma
+794,Telmisartan,Respiratory,Injection,8,Torrent Pharma
+795,Amoxicillin,Analgesic,Syrup,72,Alkem Laboratories
+796,Telmisartan,Antibiotic,Cream,68,Abbott
+797,Sitagliptin,Anti-inflammatory,Suspension,54,Mankind Pharm
+798,Gabapentin,CNS,Suspension,15,Alkem Laboratories
+799,Paracetamol,Antiviral,Ointment,90,Sun Pharma
+800,Rosuvastatin,Gastrointestinal,Injection,40,Lupin
+801,Budesonide,Respiratory,Syrup,85,Cipla
+802,Telmisartan,Antidiabetic,Ointment,53,Abbott
+803,Doxycycline,Anti-inflammatory,Tablet,91,Abbott
+804,Rosuvastatin,Cardiovascular,Ointment,36,Dr Reddy's
+805,Rabeprazole,CNS,Ointment,18,Lupin
+806,Amoxicillin,Antidiabetic,Tablet,54,Abbott
+807,Metformin,Analgesic,Tablet,96,Sun Pharma
+808,Montelukast,CNS,Inhaler,73,Mankind Pharm
+809,Montelukast,Antibiotic,Inhaler,33,Alkem Laboratories
+810,Rosuvastatin,Antidiabetic,Cream,61,Dr Reddy's
+811,Budesonide,Antidiabetic,Capsule,89,Lupin
+812,Losartan,CNS,Cream,37,Mankind Pharm
+813,Diclofenac,Anticancer,Suspension,23,Sun Pharma
+814,Empagliflozin,Anti-inflammatory,Suspension,87,Glenmark
+815,Pantoprazole,Analgesic,Syrup,71,Dr Reddy's
+816,Paracetamol,Gastrointestinal,Tablet,38,Lupin
+817,Pantoprazole,Respiratory,Capsule,89,Zydus
+818,Rabeprazole,Gastrointestinal,Suspension,97,Cipla
+819,Rosuvastatin,Anti-inflammatory,Capsule,72,Mankind Pharm
+820,Pregabalin,Anticancer,Capsule,55,Abbott
+821,Gabapentin,Antidiabetic,Ointment,16,Mankind Pharm
+822,Montelukast,Gastrointestinal,Tablet,89,Sun Pharma
+823,Montelukast,Gastrointestinal,Tablet,23,Sun Pharma
+824,Aceclofenac,Respiratory,Injection,90,Lupin
+825,Cefixime,Analgesic,Tablet,35,Dr Reddy's
+826,Atorvastatin,Antidiabetic,Tablet,6,Glenmark
+827,Amlodipine,Gastrointestinal,Suspension,47,Torrent Pharma
+828,Pregabalin,Gastrointestinal,Syrup,66,Dr Reddy's
+829,Pantoprazole,Gastrointestinal,Ointment,72,Lupin
+830,Aceclofenac,Antidiabetic,Cream,30,Cipla
+831,Ibuprofen,Anti-inflammatory,Suspension,27,Torrent Pharma
+832,Dapagliflozin,Antidiabetic,Syrup,56,Dr Reddy's
+833,Gabapentin,Antiviral,Suspension,21,Alkem Laboratories
+834,Glimepiride,Antidiabetic,Suspension,29,Lupin
+835,Telmisartan,Cardiovascular,Injection,52,Torrent Pharma
+836,Pantoprazole,Anticancer,Cream,35,Glenmark
+837,Azithromycin,Respiratory,Ointment,86,Lupin
+838,Pantoprazole,Antibiotic,Inhaler,64,Glenmark
+839,Amlodipine,Antibiotic,Capsule,58,Mankind Pharm
+840,Salbutamol,Antiviral,Injection,44,Torrent Pharma
+841,Montelukast,Anticancer,Ointment,30,Abbott
+842,Cefixime,Anticancer,Injection,8,Alkem Laboratories
+843,Empagliflozin,CNS,Syrup,43,Abbott
+844,Budesonide,Analgesic,Capsule,91,Glenmark
+845,Glimepiride,Anticancer,Suspension,93,Abbott
+846,Dapagliflozin,Anti-inflammatory,Ointment,25,Glenmark
+847,Telmisartan,Anti-inflammatory,Tablet,17,Sun Pharma
+848,Domperidone,CNS,Suspension,87,Dr Reddy's
+849,Metformin,Gastrointestinal,Cream,93,Dr Reddy's
+850,Empagliflozin,Gastrointestinal,Injection,25,Zydus
+851,Losartan,Antiviral,Capsule,40,Alkem Laboratories
+852,Sitagliptin,Antiviral,Capsule,11,Lupin
+853,Acyclovir,Analgesic,Inhaler,71,Glenmark
+854,Diclofenac,CNS,Capsule,77,Mankind Pharm
+855,Budesonide,Gastrointestinal,Tablet,58,Mankind Pharm
+856,Pregabalin,Respiratory,Suspension,1,Glenmark
+857,Acyclovir,CNS,Injection,2,Cipla
+858,Montelukast,Cardiovascular,Syrup,100,Torrent Pharma
+859,Doxycycline,Gastrointestinal,Tablet,87,Alkem Laboratories
+860,Fluoxetine,Antiviral,Ointment,32,Dr Reddy's
+861,Montelukast,Gastrointestinal,Injection,1,Abbott
+862,Diclofenac,Antibiotic,Cream,27,Alkem Laboratories
+863,Paracetamol,CNS,Ointment,21,Dr Reddy's
+864,Doxycycline,Cardiovascular,Syrup,49,Zydus
+865,Cefixime,Cardiovascular,Injection,75,Lupin
+866,Glimepiride,Analgesic,Injection,29,Sun Pharma
+867,Gabapentin,Cardiovascular,Tablet,39,Torrent Pharma
+868,Azithromycin,Anti-inflammatory,Capsule,53,Sun Pharma
+869,Diclofenac,Antiviral,Suspension,43,Mankind Pharm
+870,Azithromycin,Antiviral,Suspension,3,Zydus
+871,Domperidone,Anticancer,Cream,21,Torrent Pharma
+872,Sertraline,CNS,Inhaler,68,Dr Reddy's
+873,Losartan,Antibiotic,Injection,99,Zydus
+874,Budesonide,Anticancer,Cream,7,Abbott
+875,Empagliflozin,Antibiotic,Suspension,58,Lupin
+876,Dapagliflozin,Respiratory,Tablet,13,Alkem Laboratories
+877,Pantoprazole,Antibiotic,Capsule,71,Lupin
+878,Montelukast,Anti-inflammatory,Injection,56,Glenmark
+879,Empagliflozin,Anticancer,Tablet,53,Dr Reddy's
+880,Montelukast,Antibiotic,Suspension,81,Mankind Pharm
+881,Fluoxetine,Analgesic,Capsule,28,Glenmark
+882,Glimepiride,Antibiotic,Cream,92,Cipla
+883,Paracetamol,Respiratory,Injection,58,Lupin
+884,Diclofenac,Antibiotic,Syrup,62,Zydus
+885,Amlodipine,Antidiabetic,Inhaler,22,Sun Pharma
+886,Rosuvastatin,Antiviral,Suspension,13,Zydus
+887,Metformin,Anticancer,Ointment,47,Zydus
+888,Ibuprofen,CNS,Injection,92,Sun Pharma
+889,Acyclovir,Antibiotic,Inhaler,81,Lupin
+890,Fluoxetine,Antiviral,Syrup,52,Sun Pharma
+891,Gabapentin,Cardiovascular,Capsule,58,Cipla
+892,Pregabalin,Antiviral,Cream,63,Alkem Laboratories
+893,Diclofenac,CNS,Ointment,5,Alkem Laboratories
+894,Escitalopram,Antibiotic,Inhaler,54,Sun Pharma
+895,Aceclofenac,CNS,Inhaler,84,Torrent Pharma
+896,Pantoprazole,Anticancer,Syrup,25,Zydus
+897,Escitalopram,Gastrointestinal,Inhaler,67,Sun Pharma
+898,Azithromycin,CNS,Cream,62,Sun Pharma
+899,Azithromycin,CNS,Tablet,68,Dr Reddy's
+900,Telmisartan,Gastrointestinal,Inhaler,27,Sun Pharma
+901,Amlodipine,Respiratory,Syrup,75,Zydus
+902,Rabeprazole,Anticancer,Tablet,42,Abbott
+903,Empagliflozin,Gastrointestinal,Ointment,31,Abbott
+904,Sertraline,Analgesic,Tablet,15,Mankind Pharm
+905,Acyclovir,Antidiabetic,Ointment,88,Alkem Laboratories
+906,Salbutamol,Gastrointestinal,Suspension,11,Glenmark
+907,Amoxicillin,Gastrointestinal,Injection,91,Glenmark
+908,Rabeprazole,Analgesic,Syrup,17,Glenmark
+909,Doxycycline,Analgesic,Inhaler,94,Lupin
+910,Cefixime,Antidiabetic,Cream,25,Alkem Laboratories
+911,Paracetamol,Antidiabetic,Ointment,14,Sun Pharma
+912,Pregabalin,Cardiovascular,Ointment,38,Sun Pharma
+913,Salbutamol,Cardiovascular,Ointment,2,Abbott
+914,Rabeprazole,Antiviral,Syrup,54,Sun Pharma
+915,Rabeprazole,Respiratory,Syrup,52,Zydus
+916,Empagliflozin,Respiratory,Syrup,17,Zydus
+917,Doxycycline,Antiviral,Cream,81,Alkem Laboratories
+918,Acyclovir,Antibiotic,Cream,100,Torrent Pharma
+919,Paracetamol,Gastrointestinal,Capsule,55,Zydus
+920,Budesonide,Anticancer,Inhaler,24,Abbott
+921,Rabeprazole,Antibiotic,Syrup,58,Lupin
+922,Diclofenac,Anticancer,Injection,11,Zydus
+923,Budesonide,Analgesic,Syrup,56,Cipla
+924,Montelukast,Antibiotic,Syrup,100,Dr Reddy's
+925,Metformin,Anticancer,Suspension,84,Cipla
+926,Azithromycin,Antibiotic,Inhaler,15,Mankind Pharm
+927,Rabeprazole,Anticancer,Suspension,45,Dr Reddy's
+928,Paracetamol,Respiratory,Syrup,65,Cipla
+929,Montelukast,Antiviral,Tablet,56,Dr Reddy's
+930,Escitalopram,Antibiotic,Injection,90,Torrent Pharma
+931,Aceclofenac,Cardiovascular,Ointment,83,Torrent Pharma
+932,Cefixime,Cardiovascular,Inhaler,93,Abbott
+933,Aceclofenac,Cardiovascular,Ointment,29,Cipla
+934,Cefixime,Cardiovascular,Tablet,42,Sun Pharma
+935,Aceclofenac,Gastrointestinal,Inhaler,47,Abbott
+936,Domperidone,Antidiabetic,Syrup,79,Glenmark
+937,Sertraline,Gastrointestinal,Cream,45,Mankind Pharm
+938,Rosuvastatin,Anti-inflammatory,Cream,44,Mankind Pharm
+939,Ibuprofen,Cardiovascular,Injection,25,Abbott
+940,Paracetamol,Anticancer,Inhaler,6,Abbott
+941,Cefixime,Analgesic,Injection,67,Torrent Pharma
+942,Gabapentin,Antidiabetic,Tablet,19,Dr Reddy's
+943,Azithromycin,Antidiabetic,Syrup,7,Dr Reddy's
+944,Doxycycline,Cardiovascular,Injection,89,Torrent Pharma
+945,Doxycycline,Anti-inflammatory,Suspension,12,Cipla
+946,Sertraline,Anticancer,Cream,16,Sun Pharma
+947,Pantoprazole,Antibiotic,Capsule,42,Cipla
+948,Escitalopram,CNS,Capsule,29,Torrent Pharma
+949,Paracetamol,CNS,Syrup,43,Abbott
+950,Salbutamol,Antibiotic,Suspension,56,Cipla
+951,Azithromycin,CNS,Suspension,83,Cipla
+952,Atorvastatin,Analgesic,Ointment,33,Glenmark
+953,Aceclofenac,CNS,Cream,21,Mankind Pharm
+954,Escitalopram,Anticancer,Cream,20,Dr Reddy's
+955,Metformin,Analgesic,Injection,3,Glenmark
+956,Telmisartan,Anti-inflammatory,Capsule,64,Torrent Pharma
+957,Empagliflozin,Respiratory,Injection,33,Zydus
+958,Ibuprofen,Cardiovascular,Ointment,93,Zydus
+959,Pantoprazole,Gastrointestinal,Suspension,47,Lupin
+960,Empagliflozin,Anticancer,Suspension,91,Dr Reddy's
+961,Fluoxetine,Cardiovascular,Syrup,72,Sun Pharma
+962,Paracetamol,Antidiabetic,Ointment,14,Mankind Pharm
+963,Sitagliptin,Anti-inflammatory,Tablet,55,Glenmark
+964,Diclofenac,CNS,Tablet,94,Dr Reddy's
+965,Gabapentin,Analgesic,Tablet,34,Alkem Laboratories
+966,Pantoprazole,Analgesic,Suspension,56,Cipla
+967,Telmisartan,Antidiabetic,Inhaler,69,Alkem Laboratories
+968,Acyclovir,Anti-inflammatory,Tablet,48,Glenmark
+969,Atorvastatin,Antidiabetic,Suspension,35,Lupin
+970,Escitalopram,Respiratory,Inhaler,11,Torrent Pharma
+971,Pantoprazole,Cardiovascular,Inhaler,15,Zydus
+972,Metformin,Cardiovascular,Capsule,76,Abbott
+973,Cefixime,CNS,Tablet,63,Zydus
+974,Aceclofenac,Gastrointestinal,Injection,28,Alkem Laboratories
+975,Diclofenac,Antibiotic,Injection,58,Dr Reddy's
+976,Montelukast,Antiviral,Cream,6,Zydus
+977,Pregabalin,Antidiabetic,Suspension,9,Alkem Laboratories
+978,Escitalopram,Respiratory,Inhaler,8,Cipla
+979,Glimepiride,Antidiabetic,Tablet,36,Glenmark
+980,Diclofenac,Antiviral,Injection,95,Zydus
+981,Diclofenac,Anti-inflammatory,Cream,42,Alkem Laboratories
+982,Fluoxetine,CNS,Suspension,73,Abbott
+983,Amoxicillin,Antibiotic,Suspension,92,Mankind Pharm
+984,Ibuprofen,Antibiotic,Syrup,43,Lupin
+985,Budesonide,CNS,Injection,20,Lupin
+986,Sitagliptin,Cardiovascular,Suspension,82,Lupin
+987,Aceclofenac,Antiviral,Suspension,71,Alkem Laboratories
+988,Escitalopram,Antibiotic,Tablet,65,Sun Pharma
+989,Domperidone,Gastrointestinal,Ointment,39,Alkem Laboratories
+990,Dapagliflozin,Antidiabetic,Inhaler,33,Dr Reddy's
+991,Doxycycline,Cardiovascular,Capsule,37,Cipla
+992,Budesonide,Respiratory,Cream,71,Alkem Laboratories
+993,Doxycycline,Gastrointestinal,Cream,77,Alkem Laboratories
+994,Amlodipine,Anticancer,Tablet,4,Glenmark
+995,Diclofenac,Respiratory,Inhaler,1,Torrent Pharma
+996,Dapagliflozin,CNS,Ointment,92,Lupin
+997,Paracetamol,Antibiotic,Injection,52,Mankind Pharm
+998,Losartan,Antibiotic,Syrup,32,Lupin
+999,Losartan,Anticancer,Capsule,21,Abbott
+1000,Salbutamol,Anticancer,Capsule,45,Alkem Laboratories

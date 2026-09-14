@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_city,supplier_type,lead_time_days
+1,Alembic Pharmaceuticals,Kolkata,API Supplier,3
+2,Emcure Pharmaceuticals,Kolkata,Wholesaler,13
+3,Intas Pharmaceuticals,Hyderabad,Manufacturer,28
+4,Emcure Pharmaceuticals,Mumbai,Distributor,18
+5,Zydus Lifesciences,Ahmedabad,Distributor,14
+6,Natco Pharma,Pune,Wholesaler,28
+7,Intas Pharmaceuticals,New Delhi,API Supplier,9
+8,Intas Pharmaceuticals,Hyderabad,Manufacturer,22
+9,Sun Pharma,Chennai,Wholesaler,20
+10,Abbott India,Kolkata,Distributor,10
+11,Mankind Pharma,Kolkata,API Supplier,8
+12,Zydus Lifesciences,Pune,Manufacturer,15
+13,Ipca Laboratories,Vadodara,API Supplier,25
+14,Cipla,Pune,Distributor,14
+15,Cadila Pharmaceuticals,Mumbai,Manufacturer,15
+16,Lupin,New Delhi,Manufacturer,20
+17,Jubilant Pharmova,Chennai,Wholesaler,26
+18,Cipla,Vadodara,API Supplier,6
+19,Biocon,Chennai,Manufacturer,3
+20,Cipla,Pune,Manufacturer,19
